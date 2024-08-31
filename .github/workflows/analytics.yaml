@@ -16,14 +16,14 @@ jobs:
             # creates a shallow checkout.
             fetch-depth: 0
       
-      - name: restore timestamps
+      - name: Restore timestamps
         uses: chetan/git-restore-mtime-action@v2
 
       - name: Run File Analytics action
         id: analytics_run
         uses: FranciscoKnebel/file-analytics@0.1.1
         with:
-          files: "content/**/*,*.{png,pdf,jpg,mp4}"
+          files: "content/**/*,*.png,*.pdf,*.jpg,*.mp4}"
           output_json: file_info.json
       
       - name: Generate Markdown table
@@ -38,9 +38,8 @@ jobs:
           echo "
             ## Dawntech Assets
 
-            ![Static Badge](https://img.shields.io/badge/Arquivos-${{ steps.analytics_run.outputs.file_count }}-brightgreen?style=for-the-badge)
-
-            ![Static Badge](https://img.shields.io/badge/Tamanho-${{ steps.analytics_run.outputs.file_size }}-brightgreen?style=for-the-badge)
+            - 📁 Arquivos: ${{ steps.analytics_run.outputs.file_count }}
+            - ⚖️ Tamanho: ${{ steps.analytics_run.outputs.file_size }}
               
             ${{ steps.create_table.outputs.table }}
           " > README.md
