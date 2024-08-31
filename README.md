@@ -1,12 +1,14 @@
 
   ## Dawntech Assets
 
-  ![Static Badge](https://img.shields.io/badge/Arquivos-296-brightgreen?style=for-the-badge)
-
-  ![Static Badge](https://img.shields.io/badge/Tamanho-252.93 MB-brightgreen?style=for-the-badge)
+  - 📁 Arquivos: 305
+  - ⚖️ Tamanho: 254.34 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
+| catalyst-personal-shopper_1.png | 131.28 KB | .png | 2024-03-18T00:10:43.000Z |
+| catalyst-personal-shopper_2.png | 137.32 KB | .png | 2024-03-18T00:10:43.000Z |
+| catalyst_personal_shopper_3.png | 133.04 KB | .png | 2024-03-17T22:51:01.000Z |
 | content/590d75be-8734-4a38-ab82-72ab44d6c883.png | 154.81 KB | .png | 2022-11-28T01:23:04.000Z |
 | content/618d4521-f10f-4737-8fae-98b1ce954d03.jpg | 89.36 KB | .jpg | 2022-11-16T13:21:42.000Z |
 | content/618d4521-f10f-4737-8fae-98b1ce954d04.jpg | 102.21 KB | .jpg | 2022-11-16T13:24:38.000Z |
@@ -303,5 +305,11 @@
 | content/wevo_config_en.png | 120.31 KB | .png | 2023-12-17T21:23:47.000Z |
 | content/wevo_config_es.png | 125.5 KB | .png | 2023-12-17T21:23:47.000Z |
 | content/wevo_config_ptbr.png | 66.16 KB | .png | 2023-12-17T21:23:47.000Z |
+| dt.png | 269.09 KB | .png | 2024-06-27T11:49:15.000Z |
+| engovafter.pdf | 84.65 KB | .pdf | 2024-05-20T11:24:17.000Z |
+| lap1.jpg | 193.9 KB | .jpg | 2023-08-13T02:56:02.000Z |
+| vtex_capa_en.png.png | 165.6 KB | .png | 2023-08-27T21:23:47.000Z |
+| vtex_capa_es.png.png | 166.03 KB | .png | 2023-08-27T21:23:47.000Z |
+| vtex_capa_ptbr.png.png | 166.15 KB | .png | 2023-08-27T21:23:47.000Z |
 
 
