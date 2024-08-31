@@ -4,17 +4,26 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 jobs:
-  size-compare:
+  file-test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+            ref: main
+            # git-restore-mtime-bare uses the ref log to find the correct timestamp
+            # for each file. This requires a full git history. The default value (1)
+            # creates a shallow checkout.
+            fetch-depth: 0
+      
+      - name: restore timestamps
+        uses: chetan/git-restore-mtime-action@v2
 
       - name: Run File Analytics action
-        id: run
-        uses: FranciscoKnebel/file-analytics@0.1.0
+        id: analytics_run
+        uses: FranciscoKnebel/file-analytics@0.1.1
         with:
-          files: "content/**/*"
+          files: "content/**/*,*.{png,pdf,jpg,mp4}"
           output_json: file_info.json
       
       - name: Generate Markdown table
@@ -29,7 +38,10 @@ jobs:
           echo "
             ## Dawntech Assets
 
-            ### File stats
+            ![Static Badge](https://img.shields.io/badge/Arquivos-${{ steps.analytics_run.outputs.file_count }}-brightgreen?style=for-the-badge)
+
+            ![Static Badge](https://img.shields.io/badge/Tamanho-${{ steps.analytics_run.outputs.file_size }}-brightgreen?style=for-the-badge)
+              
             ${{ steps.create_table.outputs.table }}
           " > README.md
       
@@ -37,4 +49,5 @@ jobs:
         with:
           default_author: github_actions
           add: 'README.md'
+          message: "Update file stats in README.md"
 
