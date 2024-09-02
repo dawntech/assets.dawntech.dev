@@ -1,7 +1,8 @@
 name: File Test
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 3 * * *"
   workflow_dispatch:
 jobs:
   file-test:
