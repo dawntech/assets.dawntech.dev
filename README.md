@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 305
-  - ⚖️ Tamanho: 254.34 MB
+  - 📁 Arquivos: 309
+  - ⚖️ Tamanho: 274.36 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | content/HotWorld Video.mp4 | 4.99 MB | .mp4 | 2022-08-12T14:49:15.000Z |
 | content/Imagem.png | 551.79 KB | .png | 2022-08-16T14:16:15.000Z |
 | content/Leroy.png | 2.17 KB | .png | 2023-10-03T02:57:08.000Z |
+| content/Monte Záion | 1 B |  | 2024-09-02T11:46:00.000Z |
 | content/NF590d75be-8734-4a38-ab82-72ab44d6c883IER.jpg | 543.61 KB | .jpg | 2022-12-14T11:47:43.000Z |
 | content/NK590d75be-8734-4a38-ab82-72ab44d6c883ICS.jpg | 523.99 KB | .jpg | 2022-12-14T11:48:48.000Z |
 | content/NL590d75be-8734-4a38-ab82-72ab44d6c883AF.jpg | 532.21 KB | .jpg | 2022-12-14T11:51:20.000Z |
@@ -265,6 +266,9 @@
 | content/meurodape_transparente.png | 33.47 KB | .png | 2024-05-23T12:26:51.000Z |
 | content/michelin-localizacao.jpeg | 245 KB | .jpeg | 2023-10-31T21:22:35.000Z |
 | content/michelin-medida-pneu.jpeg | 237.42 KB | .jpeg | 2023-10-31T21:22:35.000Z |
+| content/monteZaion | 4 KB |  | 2024-09-02T12:32:22.000Z |
+| content/monteZaion/MONTE ZAION 1 (1) (1) (1) (1) (1) (1).mp4 | 20.02 MB | .mp4 | 2024-09-02T12:32:22.000Z |
+| content/monteZaion/Teste.text | 1 B | .text | 2024-09-02T11:49:44.000Z |
 | content/mybar | 4 KB |  | 2024-05-24T18:39:38.000Z |
 | content/mybar/imagem_apresentacao_27-05.png | 140.2 KB | .png | 2024-05-24T15:03:51.000Z |
 | content/naguirre.png | 21.98 KB | .png | 2023-11-25T12:57:27.000Z |
