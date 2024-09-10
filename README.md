@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 310
-  - ⚖️ Tamanho: 278.62 MB
+  - 📁 Arquivos: 313
+  - ⚖️ Tamanho: 282.23 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -47,9 +47,12 @@
 | content/amstel/Espirito Livre 3.png | 2.11 MB | .png | 2024-03-13T17:10:52.000Z |
 | content/amstel/Espirito Livre 4.png | 257.28 KB | .png | 2024-03-13T17:10:52.000Z |
 | content/amstel/teste | 6 B |  | 2024-03-13T17:09:51.000Z |
-| content/animativa | 4 KB |  | 2024-08-28T21:21:23.000Z |
+| content/animativa | 4 KB |  | 2024-09-10T01:45:21.000Z |
 | content/animativa/A SD agora é ANIMATIVA!.mp4 | 5.09 MB | .mp4 | 2024-08-28T21:14:37.000Z |
+| content/animativa/Deadpool-Naruto-Marvel-Now.png | 1.36 MB | .png | 2024-09-10T00:50:15.000Z |
+| content/animativa/Friends.png | 1.57 MB | .png | 2024-09-10T01:11:37.000Z |
 | content/animativa/a-sd-agora-e-animativa.mp4 | 5.09 MB | .mp4 | 2024-08-28T21:21:23.000Z |
+| content/animativa/moranguinho-rebecca-bonbon.png | 701.87 KB | .png | 2024-09-10T01:53:18.000Z |
 | content/animativa/teste.txt | 1 B | .txt | 2024-08-28T21:14:27.000Z |
 | content/astoria-info-tecnicas.png | 197.52 KB | .png | 2024-07-04T12:00:09.000Z |
 | content/barcelos | 4 KB |  | 2024-05-03T16:10:00.000Z |
