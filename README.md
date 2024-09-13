@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 314
-  - ⚖️ Tamanho: 283.84 MB
+  - 📁 Arquivos: 317
+  - ⚖️ Tamanho: 284.09 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -220,6 +220,9 @@
 | content/marks-electrical | 4 KB |  | 2024-08-20T15:04:19.000Z |
 | content/marks-electrical/product-code-helper.png | 45.26 KB | .png | 2024-08-20T15:04:19.000Z |
 | content/marks-electrical/teste.txt | 1 B | .txt | 2024-08-20T13:21:50.000Z |
+| content/master | 4 KB |  | 2024-09-12T13:52:31.000Z |
+| content/master/tela-cpfl.png | 139.88 KB | .png | 2024-09-12T13:52:31.000Z |
+| content/master/tela-rge.png | 114.7 KB | .png | 2024-09-12T13:26:19.000Z |
 | content/meurodape | 4 KB |  | 2023-10-11T02:03:48.000Z |
 | content/meurodape/Paineis Ripados.png | 642.03 KB | .png | 2023-10-11T02:03:18.000Z |
 | content/meurodape/audios | 4 KB |  | 2023-10-11T02:03:18.000Z |
