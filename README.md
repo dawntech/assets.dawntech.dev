@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 321
-  - ⚖️ Tamanho: 284.87 MB
+  - 📁 Arquivos: 322
+  - ⚖️ Tamanho: 291.83 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | content/HotWorld Video.mp4 | 4.99 MB | .mp4 | 2022-08-12T14:49:15.000Z |
 | content/Imagem.png | 551.79 KB | .png | 2022-08-16T14:16:15.000Z |
 | content/Leroy.png | 2.17 KB | .png | 2023-10-03T02:57:08.000Z |
+| content/Metroform_Catálogo_Digital.pdf | 6.95 MB | .pdf | 2024-09-17T13:50:35.000Z |
 | content/Monte Záion | 1 B |  | 2024-09-02T11:46:00.000Z |
 | content/NF590d75be-8734-4a38-ab82-72ab44d6c883IER.jpg | 543.61 KB | .jpg | 2022-12-14T11:47:43.000Z |
 | content/NK590d75be-8734-4a38-ab82-72ab44d6c883ICS.jpg | 523.99 KB | .jpg | 2022-12-14T11:48:48.000Z |
