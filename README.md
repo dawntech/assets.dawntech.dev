@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 323
-  - ⚖️ Tamanho: 292.17 MB
+  - 📁 Arquivos: 326
+  - ⚖️ Tamanho: 295.85 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -299,6 +299,9 @@
 | content/p0s1t1v3-c9c6da9c-a044.webp | 33.73 KB | .webp | 2023-12-21T21:28:16.000Z |
 | content/plugins_file-upload_video.mp4 | 5 MB | .mp4 | 2024-08-27T02:28:51.000Z |
 | content/promuscular3.jpg | 1.09 MB | .jpg | 2024-05-16T01:28:25.000Z |
+| content/slshop | 4 KB |  | 2024-09-27T18:43:28.000Z |
+| content/slshop/avatar-feminino.png | 1.88 MB | .png | 2024-09-27T18:43:28.000Z |
+| content/slshop/avatar-masculino.png | 1.8 MB | .png | 2024-09-27T18:43:28.000Z |
 | content/sos | 4 KB |  | 2024-05-24T19:35:35.000Z |
 | content/sos/Termos-de-Uso-Doacoes-em-um-Blip-SOS-RS-21.05.24.pdf | 220.02 KB | .pdf | 2024-05-24T19:35:35.000Z |
 | content/sos/main.txt | 1 B | .txt | 2024-05-24T19:34:28.000Z |
