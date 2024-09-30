@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 326
-  - ⚖️ Tamanho: 295.85 MB
+  - 📁 Arquivos: 327
+  - ⚖️ Tamanho: 302.81 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -229,6 +229,7 @@
 | content/master | 4 KB |  | 2024-09-12T13:52:31.000Z |
 | content/master/tela-cpfl.png | 139.88 KB | .png | 2024-09-12T13:52:31.000Z |
 | content/master/tela-rge.png | 114.7 KB | .png | 2024-09-12T13:26:19.000Z |
+| content/metro-form.pdf | 6.95 MB | .pdf | 2024-09-30T00:33:01.000Z |
 | content/meurodape | 4 KB |  | 2023-10-11T02:03:48.000Z |
 | content/meurodape/Paineis Ripados.png | 642.03 KB | .png | 2023-10-11T02:03:18.000Z |
 | content/meurodape/audios | 4 KB |  | 2023-10-11T02:03:18.000Z |
