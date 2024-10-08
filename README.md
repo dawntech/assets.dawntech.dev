@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 327
-  - ⚖️ Tamanho: 302.81 MB
+  - 📁 Arquivos: 328
+  - ⚖️ Tamanho: 306.91 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -286,13 +286,14 @@
 | content/mybar/imagem_apresentacao_27-05.png | 140.2 KB | .png | 2024-05-24T15:03:51.000Z |
 | content/naguirre.png | 21.98 KB | .png | 2023-11-25T12:57:27.000Z |
 | content/nextdaytutorial.jpeg | 48.55 KB | .jpeg | 2024-08-22T02:57:47.000Z |
-| content/overcome | 4 KB |  | 2024-09-11T13:06:25.000Z |
+| content/overcome | 4 KB |  | 2024-10-07T14:16:32.000Z |
 | content/overcome/OVCM - apresentação multimarcas.pdf | 9.81 MB | .pdf | 2024-08-21T18:12:28.000Z |
 | content/overcome/apresentacao-multimarcas.pdf | 9.81 MB | .pdf | 2024-08-22T15:31:39.000Z |
 | content/overcome/banner-promo-winter.mp4 | 2 B | .mp4 | 2024-07-04T14:47:58.000Z |
 | content/overcome/banner_promo_winter.mp4 | 9.97 MB | .mp4 | 2024-07-04T14:50:53.000Z |
 | content/overcome/db oversized - gif.mp4 | 2.08 MB | .mp4 | 2024-06-27T13:11:47.000Z |
 | content/overcome/over-video-2.mp4 | 1.61 MB | .mp4 | 2024-09-11T13:06:25.000Z |
+| content/overcome/over-video-3.mp4 | 4.1 MB | .mp4 | 2024-10-07T14:16:32.000Z |
 | content/overcome/over-video.mp4 | 4.25 MB | .mp4 | 2024-09-06T19:37:48.000Z |
 | content/overcome/precos_atacado.pdf | 269.61 KB | .pdf | 2024-08-18T21:01:29.000Z |
 | content/overcome/preço atacado overcome (1).pdf | 269.61 KB | .pdf | 2024-08-18T20:58:58.000Z |
