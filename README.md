@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 328
-  - ⚖️ Tamanho: 306.91 MB
+  - 📁 Arquivos: 331
+  - ⚖️ Tamanho: 311.31 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -145,6 +145,9 @@
 | content/fundo_transparente_letras_brancas_apenas_nome_e_slogan.png | 95.47 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas.png | 102.95 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas_apenas_nome_e_slogan.png | 121.08 KB | .png | 2024-02-27T13:58:16.000Z |
+| content/h-and-m | 4 KB |  | 2024-10-13T18:42:18.000Z |
+| content/h-and-m/dummy-campaign-image.png | 4.4 MB | .png | 2024-10-13T18:42:18.000Z |
+| content/h-and-m/teste.txt | 1 B | .txt | 2024-10-13T18:41:13.000Z |
 | content/image_1.png | 267.19 KB | .png | 2023-03-23T03:19:04.000Z |
 | content/image_2.png | 78.12 KB | .png | 2023-03-23T03:19:04.000Z |
 | content/image_3.png | 97.03 KB | .png | 2023-03-23T03:19:04.000Z |
