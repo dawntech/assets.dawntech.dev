@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 331
-  - ⚖️ Tamanho: 311.31 MB
+  - 📁 Arquivos: 332
+  - ⚖️ Tamanho: 311.66 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -145,7 +145,8 @@
 | content/fundo_transparente_letras_brancas_apenas_nome_e_slogan.png | 95.47 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas.png | 102.95 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas_apenas_nome_e_slogan.png | 121.08 KB | .png | 2024-02-27T13:58:16.000Z |
-| content/h-and-m | 4 KB |  | 2024-10-13T18:42:18.000Z |
+| content/h-and-m | 4 KB |  | 2024-10-24T17:11:44.000Z |
+| content/h-and-m/SMS 6010 woman.jpg | 359.48 KB | .jpg | 2024-10-24T17:11:44.000Z |
 | content/h-and-m/dummy-campaign-image.png | 4.4 MB | .png | 2024-10-13T18:42:18.000Z |
 | content/h-and-m/teste.txt | 1 B | .txt | 2024-10-13T18:41:13.000Z |
 | content/image_1.png | 267.19 KB | .png | 2023-03-23T03:19:04.000Z |
