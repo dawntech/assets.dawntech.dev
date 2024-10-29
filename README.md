@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 332
-  - ⚖️ Tamanho: 311.66 MB
+  - 📁 Arquivos: 356
+  - ⚖️ Tamanho: 748.2 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -15,6 +15,7 @@
 | content/ANTES E DEPOIS MELASMA MOBILE_.jpg | 142.2 KB | .jpg | 2023-05-16T22:22:39.000Z |
 | content/Blip - Active Messages.postman_collection.json | 8.96 KB | .json | 2023-01-31T01:39:45.000Z |
 | content/Coplacana_Feira_do_Amendoim.jpeg | 136.46 KB | .jpeg | 2022-08-09T17:24:13.000Z |
+| content/Depósito BETDASORTE.mp4 | 21.32 MB | .mp4 | 2024-10-28T20:47:45.000Z |
 | content/Dwnt Cover.png | 3.12 MB | .png | 2024-02-27T13:58:16.000Z |
 | content/FEED.png | 3.37 MB | .png | 2024-01-17T12:31:47.000Z |
 | content/Ferramentas_1080x1080_Desconto Progressivo.png | 1.34 MB | .png | 2024-07-22T21:39:52.000Z |
@@ -303,6 +304,29 @@
 | content/overcome/preço atacado overcome (1).pdf | 269.61 KB | .pdf | 2024-08-18T20:58:58.000Z |
 | content/overcome/video-ativo | 1 B |  | 2024-06-27T13:11:28.000Z |
 | content/p0s1t1v3-c9c6da9c-a044.webp | 33.73 KB | .webp | 2023-12-21T21:28:16.000Z |
+| content/pixbet | 4 KB |  | 2024-10-29T00:04:21.000Z |
+| content/pixbet/Depósito BET.BET.mp4 | 19.8 MB | .mp4 | 2024-10-28T22:51:38.000Z |
+| content/pixbet/Depósito BETDASORTE.mp4 | 18.18 MB | .mp4 | 2024-10-28T22:55:42.000Z |
+| content/pixbet/Depósito BETVIP.mp4 | 19.64 MB | .mp4 | 2024-10-28T22:58:44.000Z |
+| content/pixbet/Depósito FLABET.mp4 | 18.58 MB | .mp4 | 2024-10-28T23:01:17.000Z |
+| content/pixbet/Depósito GANHABET.mp4 | 20.21 MB | .mp4 | 2024-10-28T23:18:45.000Z |
+| content/pixbet/Depósito PIXBET.mp4 | 18.58 MB | .mp4 | 2024-10-28T23:21:57.000Z |
+| content/pixbet/Histórico de apostas BET.BET.mp4 | 13.04 MB | .mp4 | 2024-10-28T23:41:32.000Z |
+| content/pixbet/Histórico de apostas BETDASORTE.mp4 | 22.1 MB | .mp4 | 2024-10-29T00:00:50.000Z |
+| content/pixbet/Histórico de apostas BETVIP.mp4 | 24.31 MB | .mp4 | 2024-10-29T00:04:21.000Z |
+| content/pixbet/Histórico de apostas FLABET.mp4 | 12.33 MB | .mp4 | 2024-10-28T23:54:05.000Z |
+| content/pixbet/Histórico de apostas GANHABET.mp4 | 14.63 MB | .mp4 | 2024-10-28T23:44:55.000Z |
+| content/pixbet/Histórico de apostas PIXBET.mp4 | 13.71 MB | .mp4 | 2024-10-28T23:57:19.000Z |
+| content/pixbet/Mudar senha BET.BET.mp4 | 23.35 MB | .mp4 | 2024-10-28T19:44:42.000Z |
+| content/pixbet/Mudar senha BETDASORTE.mp4 | 23.38 MB | .mp4 | 2024-10-28T19:46:19.000Z |
+| content/pixbet/Mudar senha BETVIP.mp4 | 22.42 MB | .mp4 | 2024-10-28T19:45:40.000Z |
+| content/pixbet/Mudar senha FLABET.mp4 | 24.34 MB | .mp4 | 2024-10-28T19:43:31.000Z |
+| content/pixbet/Mudar senha GANHABET.mp4 | 23.26 MB | .mp4 | 2024-10-28T19:46:57.000Z |
+| content/pixbet/Mudar senha PIXBET.mp4 | 11.26 MB | .mp4 | 2024-10-28T19:26:41.000Z |
+| content/pixbet/Validação de e-mail FLABET.mp4 | 14.55 MB | .mp4 | 2024-10-28T22:42:40.000Z |
+| content/pixbet/Validação de e-mail BET.BET.mp4 | 19.76 MB | .mp4 | 2024-10-28T22:25:06.000Z |
+| content/pixbet/Validação de e-mail BETDASORTE.mp4 | 19.32 MB | .mp4 | 2024-10-28T22:42:40.000Z |
+| content/pixbet/Validação de e-mail PIXBET.mp4 | 18.45 MB | .mp4 | 2024-10-28T22:38:45.000Z |
 | content/plugins_file-upload_video.mp4 | 5 MB | .mp4 | 2024-08-27T02:28:51.000Z |
 | content/promuscular3.jpg | 1.09 MB | .jpg | 2024-05-16T01:28:25.000Z |
 | content/slshop | 4 KB |  | 2024-09-27T18:43:28.000Z |
