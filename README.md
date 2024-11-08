@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 358
-  - ⚖️ Tamanho: 749.06 MB
+  - 📁 Arquivos: 359
+  - ⚖️ Tamanho: 749.08 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -196,6 +196,7 @@
 | content/logo-small.jpg | 47.25 KB | .jpg | 2024-02-27T13:58:16.000Z |
 | content/logo-sticker.webp | 57.81 KB | .webp | 2023-04-05T17:35:36.000Z |
 | content/logo.jpeg | 111.85 KB | .jpeg | 2024-02-02T02:55:55.000Z |
+| content/logomadesamx.png | 14.38 KB | .png | 2024-11-07T17:06:56.000Z |
 | content/madesa | 4 KB |  | 2024-03-25T19:45:41.000Z |
 | content/madesa/Acordes.png | 24.75 KB | .png | 2024-03-25T18:07:44.000Z |
 | content/madesa/AcordesCozinha.png | 455.83 KB | .png | 2024-03-25T19:45:41.000Z |
