@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 359
-  - ⚖️ Tamanho: 749.08 MB
+  - 📁 Arquivos: 371
+  - ⚖️ Tamanho: 801.61 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -63,6 +63,18 @@
 | content/barcelos/barcelos-persona_512x512.webp | 18.99 KB | .webp | 2024-05-03T16:10:00.000Z |
 | content/barcelos/file | 9 B |  | 2024-02-08T11:34:07.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
+| content/beto-carrero | 4 KB |  | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/alerta_para_preencher_nome_2024.jpg | 72.56 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/boas_vindas_2024.mp4 | 15.47 MB | .mp4 | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/confirmacao_passaportes_preenchidos_2024.jpg | 60.55 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/ecom_dicas_dia_visita.mp4 | 15.16 MB | .mp4 | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/ecom_fast_pass_agendado.mp4 | 15.16 MB | .mp4 | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/envio_2_dia_cdv.jpg | 203.41 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/kelly.jpg | 243.79 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/manual-estacionamento.pdf | 2.19 MB | .pdf | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/mapa-bcw.jpg | 3.92 MB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/pedido_aprovado_2024.jpg | 71.18 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/test.txt | 9 B | .txt | 2024-11-11T15:07:33.000Z |
 | content/c4m1l4-c9c6da9c-a044.webp | 17.43 KB | .webp | 2023-12-21T21:28:16.000Z |
 | content/camapanha-lm-midea.png | 93.62 KB | .png | 2024-08-19T19:29:37.000Z |
 | content/campanha-lm-aniversario.png | 2.11 MB | .png | 2024-08-16T17:51:54.000Z |
