@@ -1,14 +1,15 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 371
-  - ⚖️ Tamanho: 801.61 MB
+  - 📁 Arquivos: 372
+  - ⚖️ Tamanho: 801.63 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
 | catalyst-personal-shopper_1.png | 131.28 KB | .png | 2024-03-18T00:10:43.000Z |
 | catalyst-personal-shopper_2.png | 137.32 KB | .png | 2024-03-18T00:10:43.000Z |
 | catalyst_personal_shopper_3.png | 133.04 KB | .png | 2024-03-17T22:51:01.000Z |
+| content/08e8f50c-6fbd-49d8.webp | 21.71 KB | .webp | 2024-11-26T16:33:32.000Z |
 | content/590d75be-8734-4a38-ab82-72ab44d6c883.png | 154.81 KB | .png | 2022-11-28T01:23:04.000Z |
 | content/618d4521-f10f-4737-8fae-98b1ce954d03.jpg | 89.36 KB | .jpg | 2022-11-16T13:21:42.000Z |
 | content/618d4521-f10f-4737-8fae-98b1ce954d04.jpg | 102.21 KB | .jpg | 2022-11-16T13:24:38.000Z |
