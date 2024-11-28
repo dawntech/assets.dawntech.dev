@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 372
-  - ⚖️ Tamanho: 801.63 MB
+  - 📁 Arquivos: 383
+  - ⚖️ Tamanho: 856.07 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -21,6 +21,12 @@
 | content/FEED.png | 3.37 MB | .png | 2024-01-17T12:31:47.000Z |
 | content/Ferramentas_1080x1080_Desconto Progressivo.png | 1.34 MB | .png | 2024-07-22T21:39:52.000Z |
 | content/Ferramentas_1080x1080_Grandes Marcas_V4.png | 1.48 MB | .png | 2024-07-22T21:39:52.000Z |
+| content/Gazin_BlackFriday_1.pdf | 4.98 MB | .pdf | 2024-11-27T17:16:54.000Z |
+| content/Gazin_BlackFriday_2.pdf | 4.66 MB | .pdf | 2024-11-27T17:16:54.000Z |
+| content/Gazin_BlackFriday_3.pdf | 5.18 MB | .pdf | 2024-11-27T17:16:54.000Z |
+| content/Gazin_BlackFriday_4.pdf | 5.37 MB | .pdf | 2024-11-27T17:16:54.000Z |
+| content/Gazin_BlackFriday_5.pdf | 4.83 MB | .pdf | 2024-11-27T17:16:54.000Z |
+| content/Gazin_BlackFriday_6.pdf | 4.69 MB | .pdf | 2024-11-27T17:16:54.000Z |
 | content/HotWorld Video.mp4 | 4.99 MB | .mp4 | 2022-08-12T14:49:15.000Z |
 | content/Imagem.png | 551.79 KB | .png | 2022-08-16T14:16:15.000Z |
 | content/LM_CAMPANHA_OFERTAS_EXCLUSIVAS.png | 350.76 KB | .png | 2024-09-23T16:54:22.000Z |
@@ -42,6 +48,11 @@
 | content/Redutores_IBR_3.1.1.2.2.1.pdf | 1.32 MB | .pdf | 2022-08-05T17:25:09.000Z |
 | content/ReinoMagico.pdf | 2.29 MB | .pdf | 2024-02-06T14:27:32.000Z |
 | content/Screenshot at May 08 13-32-30.png | 785.95 KB | .png | 2024-05-08T16:33:57.000Z |
+| content/Tabloide_MT_Gazin.pdf | 4.66 MB | .pdf | 2024-11-27T14:56:05.000Z |
+| content/Tabloide_PA_Gazin.pdf | 5.18 MB | .pdf | 2024-11-27T14:56:05.000Z |
+| content/Tabloide_PA_Radisco.pdf | 5.37 MB | .pdf | 2024-11-27T14:56:05.000Z |
+| content/Tabloide_PR_MS_GO_Gazin.pdf | 4.83 MB | .pdf | 2024-11-27T14:56:05.000Z |
+| content/Tabloide_RO_Gazin.pdf | 4.69 MB | .pdf | 2024-11-27T14:56:05.000Z |
 | content/Video.mp4 | 5.26 MB | .mp4 | 2022-08-12T14:23:51.000Z |
 | content/WhatsApp Image 2023-04-03 at 11.51.01.jpeg | 135.64 KB | .jpeg | 2023-05-16T22:22:39.000Z |
 | content/a7cc5b8a-a6cc-4f93-bcbd-154cd77ec307.mp4 | 1.38 MB | .mp4 | 2022-09-02T03:05:09.000Z |
