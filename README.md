@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 387
-  - ⚖️ Tamanho: 857.46 MB
+  - 📁 Arquivos: 388
+  - ⚖️ Tamanho: 867.03 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -16,6 +16,7 @@
 | content/618d4521-f10f-4737-8fae-98b1ce954d04.jpg | 102.21 KB | .jpg | 2022-11-16T13:24:38.000Z |
 | content/ANTES E DEPOIS MELASMA MOBILE_.jpg | 142.2 KB | .jpg | 2023-05-16T22:22:39.000Z |
 | content/Blip - Active Messages.postman_collection.json | 8.96 KB | .json | 2023-01-31T01:39:45.000Z |
+| content/Camila_Apresentação.pdf | 9.56 MB | .pdf | 2024-12-10T10:43:05.000Z |
 | content/Camila_Avatar_Produtor.webp | 19.43 KB | .webp | 2024-12-09T18:10:46.000Z |
 | content/Camila_Avatar_Produtor_2.webp | 213.1 KB | .webp | 2024-12-09T18:54:48.000Z |
 | content/Coplacana_Feira_do_Amendoim.jpeg | 136.46 KB | .jpeg | 2022-08-09T17:24:13.000Z |
