@@ -1,25 +1,37 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 359
-  - ⚖️ Tamanho: 749.08 MB
+  - 📁 Arquivos: 388
+  - ⚖️ Tamanho: 867.03 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
 | catalyst-personal-shopper_1.png | 131.28 KB | .png | 2024-03-18T00:10:43.000Z |
 | catalyst-personal-shopper_2.png | 137.32 KB | .png | 2024-03-18T00:10:43.000Z |
 | catalyst_personal_shopper_3.png | 133.04 KB | .png | 2024-03-17T22:51:01.000Z |
+| content/08e8f50c-6fbd-49d8.webp | 21.71 KB | .webp | 2024-11-26T16:33:32.000Z |
+| content/5056124_9010F_Black_Friday_feed_1x1_9010_0006_es-MX.jpg | 765.37 KB | .jpg | 2024-11-30T17:33:47.000Z |
 | content/590d75be-8734-4a38-ab82-72ab44d6c883.png | 154.81 KB | .png | 2022-11-28T01:23:04.000Z |
 | content/618d4521-f10f-4737-8fae-98b1ce954d03.jpg | 89.36 KB | .jpg | 2022-11-16T13:21:42.000Z |
 | content/618d4521-f10f-4737-8fae-98b1ce954d04.jpg | 102.21 KB | .jpg | 2022-11-16T13:24:38.000Z |
 | content/ANTES E DEPOIS MELASMA MOBILE_.jpg | 142.2 KB | .jpg | 2023-05-16T22:22:39.000Z |
 | content/Blip - Active Messages.postman_collection.json | 8.96 KB | .json | 2023-01-31T01:39:45.000Z |
+| content/Camila_Apresentação.pdf | 9.56 MB | .pdf | 2024-12-10T10:43:05.000Z |
+| content/Camila_Avatar_Produtor.webp | 19.43 KB | .webp | 2024-12-09T18:10:46.000Z |
+| content/Camila_Avatar_Produtor_2.webp | 213.1 KB | .webp | 2024-12-09T18:54:48.000Z |
 | content/Coplacana_Feira_do_Amendoim.jpeg | 136.46 KB | .jpeg | 2022-08-09T17:24:13.000Z |
+| content/DEZ24_CAMPANHA PERDÃO DE DÍVIDAS_INFORMATIVO WHATSAPP2x1.png | 429.08 KB | .png | 2024-12-06T14:00:58.000Z |
 | content/Depósito BETDASORTE.mp4 | 21.32 MB | .mp4 | 2024-10-28T20:47:45.000Z |
 | content/Dwnt Cover.png | 3.12 MB | .png | 2024-02-27T13:58:16.000Z |
 | content/FEED.png | 3.37 MB | .png | 2024-01-17T12:31:47.000Z |
 | content/Ferramentas_1080x1080_Desconto Progressivo.png | 1.34 MB | .png | 2024-07-22T21:39:52.000Z |
 | content/Ferramentas_1080x1080_Grandes Marcas_V4.png | 1.48 MB | .png | 2024-07-22T21:39:52.000Z |
+| content/Gazin_BlackFriday_1.pdf | 4.98 MB | .pdf | 2024-11-27T17:16:54.000Z |
+| content/Gazin_BlackFriday_2.pdf | 4.66 MB | .pdf | 2024-11-27T17:16:54.000Z |
+| content/Gazin_BlackFriday_3.pdf | 5.18 MB | .pdf | 2024-11-27T17:16:54.000Z |
+| content/Gazin_BlackFriday_4.pdf | 5.37 MB | .pdf | 2024-11-27T17:16:54.000Z |
+| content/Gazin_BlackFriday_5.pdf | 4.83 MB | .pdf | 2024-11-27T17:16:54.000Z |
+| content/Gazin_BlackFriday_6.pdf | 4.69 MB | .pdf | 2024-11-27T17:16:54.000Z |
 | content/HotWorld Video.mp4 | 4.99 MB | .mp4 | 2022-08-12T14:49:15.000Z |
 | content/Imagem.png | 551.79 KB | .png | 2022-08-16T14:16:15.000Z |
 | content/LM_CAMPANHA_OFERTAS_EXCLUSIVAS.png | 350.76 KB | .png | 2024-09-23T16:54:22.000Z |
@@ -41,6 +53,11 @@
 | content/Redutores_IBR_3.1.1.2.2.1.pdf | 1.32 MB | .pdf | 2022-08-05T17:25:09.000Z |
 | content/ReinoMagico.pdf | 2.29 MB | .pdf | 2024-02-06T14:27:32.000Z |
 | content/Screenshot at May 08 13-32-30.png | 785.95 KB | .png | 2024-05-08T16:33:57.000Z |
+| content/Tabloide_MT_Gazin.pdf | 4.66 MB | .pdf | 2024-11-27T14:56:05.000Z |
+| content/Tabloide_PA_Gazin.pdf | 5.18 MB | .pdf | 2024-11-27T14:56:05.000Z |
+| content/Tabloide_PA_Radisco.pdf | 5.37 MB | .pdf | 2024-11-27T14:56:05.000Z |
+| content/Tabloide_PR_MS_GO_Gazin.pdf | 4.83 MB | .pdf | 2024-11-27T14:56:05.000Z |
+| content/Tabloide_RO_Gazin.pdf | 4.69 MB | .pdf | 2024-11-27T14:56:05.000Z |
 | content/Video.mp4 | 5.26 MB | .mp4 | 2022-08-12T14:23:51.000Z |
 | content/WhatsApp Image 2023-04-03 at 11.51.01.jpeg | 135.64 KB | .jpeg | 2023-05-16T22:22:39.000Z |
 | content/a7cc5b8a-a6cc-4f93-bcbd-154cd77ec307.mp4 | 1.38 MB | .mp4 | 2022-09-02T03:05:09.000Z |
@@ -63,6 +80,18 @@
 | content/barcelos/barcelos-persona_512x512.webp | 18.99 KB | .webp | 2024-05-03T16:10:00.000Z |
 | content/barcelos/file | 9 B |  | 2024-02-08T11:34:07.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
+| content/beto-carrero | 4 KB |  | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/alerta_para_preencher_nome_2024.jpg | 72.56 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/boas_vindas_2024.mp4 | 15.47 MB | .mp4 | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/confirmacao_passaportes_preenchidos_2024.jpg | 60.55 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/ecom_dicas_dia_visita.mp4 | 15.16 MB | .mp4 | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/ecom_fast_pass_agendado.mp4 | 15.16 MB | .mp4 | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/envio_2_dia_cdv.jpg | 203.41 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/kelly.jpg | 243.79 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/manual-estacionamento.pdf | 2.19 MB | .pdf | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/mapa-bcw.jpg | 3.92 MB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/pedido_aprovado_2024.jpg | 71.18 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/test.txt | 9 B | .txt | 2024-11-11T15:07:33.000Z |
 | content/c4m1l4-c9c6da9c-a044.webp | 17.43 KB | .webp | 2023-12-21T21:28:16.000Z |
 | content/camapanha-lm-midea.png | 93.62 KB | .png | 2024-08-19T19:29:37.000Z |
 | content/campanha-lm-aniversario.png | 2.11 MB | .png | 2024-08-16T17:51:54.000Z |
