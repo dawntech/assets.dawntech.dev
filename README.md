@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 388
-  - ⚖️ Tamanho: 867.03 MB
+  - 📁 Arquivos: 394
+  - ⚖️ Tamanho: 871.55 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -36,6 +36,11 @@
 | content/Imagem.png | 551.79 KB | .png | 2022-08-16T14:16:15.000Z |
 | content/LM_CAMPANHA_OFERTAS_EXCLUSIVAS.png | 350.76 KB | .png | 2024-09-23T16:54:22.000Z |
 | content/Leroy.png | 2.17 KB | .png | 2023-10-03T02:57:08.000Z |
+| content/Marchand | 4 KB |  | 2024-12-18T12:53:40.000Z |
+| content/Marchand/CLIENTE_MAYORISTA.jpg | 1.64 MB | .jpg | 2024-12-18T12:53:09.000Z |
+| content/Marchand/FACTURACION.jpg | 1.92 MB | .jpg | 2024-12-18T12:53:09.000Z |
+| content/Marchand/SUPER-INICIO.jpg | 962.52 KB | .jpg | 2024-12-18T12:53:55.000Z |
+| content/Marchand/init.tx | 14 B | .tx | 2024-12-18T12:47:05.000Z |
 | content/Metroform_Catálogo_Digital.pdf | 6.95 MB | .pdf | 2024-09-17T13:50:35.000Z |
 | content/Monte Záion | 1 B |  | 2024-09-02T11:46:00.000Z |
 | content/NF590d75be-8734-4a38-ab82-72ab44d6c883IER.jpg | 543.61 KB | .jpg | 2022-12-14T11:47:43.000Z |
@@ -80,7 +85,7 @@
 | content/barcelos/barcelos-persona_512x512.webp | 18.99 KB | .webp | 2024-05-03T16:10:00.000Z |
 | content/barcelos/file | 9 B |  | 2024-02-08T11:34:07.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
-| content/beto-carrero | 4 KB |  | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero | 4 KB |  | 2024-12-18T20:18:28.000Z |
 | content/beto-carrero/alerta_para_preencher_nome_2024.jpg | 72.56 KB | .jpg | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/boas_vindas_2024.mp4 | 15.47 MB | .mp4 | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/confirmacao_passaportes_preenchidos_2024.jpg | 60.55 KB | .jpg | 2024-11-11T15:28:34.000Z |
@@ -91,6 +96,7 @@
 | content/beto-carrero/manual-estacionamento.pdf | 2.19 MB | .pdf | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/mapa-bcw.jpg | 3.92 MB | .jpg | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/pedido_aprovado_2024.jpg | 71.18 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/pesquisa_satisfacao.jpg | 22.84 KB | .jpg | 2024-12-18T20:18:28.000Z |
 | content/beto-carrero/test.txt | 9 B | .txt | 2024-11-11T15:07:33.000Z |
 | content/c4m1l4-c9c6da9c-a044.webp | 17.43 KB | .webp | 2023-12-21T21:28:16.000Z |
 | content/camapanha-lm-midea.png | 93.62 KB | .png | 2024-08-19T19:29:37.000Z |
