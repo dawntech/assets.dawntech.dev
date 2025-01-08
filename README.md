@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 394
-  - ⚖️ Tamanho: 871.55 MB
+  - 📁 Arquivos: 407
+  - ⚖️ Tamanho: 874.11 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -98,6 +98,19 @@
 | content/beto-carrero/pedido_aprovado_2024.jpg | 71.18 KB | .jpg | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/pesquisa_satisfacao.jpg | 22.84 KB | .jpg | 2024-12-18T20:18:28.000Z |
 | content/beto-carrero/test.txt | 9 B | .txt | 2024-11-11T15:07:33.000Z |
+| content/byx-caixa-aqui | 4 KB |  | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/00. Transbordo em qualquer momento do fluxo.mp3 | 127.75 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/01. Boas vindas ao atendimento.mp3 | 186.53 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/02. Aceitar termos de uso LGPD.mp3 | 287.75 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/02.1 Não aceitou as políticas de privacidade.mp3 | 178.37 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/03. Digite seu nome completo.mp3 | 80.41 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/04. Digite seu CPF.mp3 | 110.2 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/05. IN100 - instruções SMS.mp3 | 262.45 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/06. Mais de uma oferta disponível.mp3 | 154.29 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/07. Encontrei uma oferta disponível.mp3 | 115.92 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/08. CEP e endereço.mp3 | 362.86 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/09. Data de nascimento.mp3 | 97.14 KB | .mp3 | 2025-01-07T12:58:50.000Z |
+| content/byx-caixa-aqui/10. Formalização.mp3 | 658.78 KB | .mp3 | 2025-01-07T12:58:50.000Z |
 | content/c4m1l4-c9c6da9c-a044.webp | 17.43 KB | .webp | 2023-12-21T21:28:16.000Z |
 | content/camapanha-lm-midea.png | 93.62 KB | .png | 2024-08-19T19:29:37.000Z |
 | content/campanha-lm-aniversario.png | 2.11 MB | .png | 2024-08-16T17:51:54.000Z |
