@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 412
-  - ⚖️ Tamanho: 875.05 MB
+  - 📁 Arquivos: 415
+  - ⚖️ Tamanho: 876.91 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -36,9 +36,12 @@
 | content/Imagem.png | 551.79 KB | .png | 2022-08-16T14:16:15.000Z |
 | content/LM_CAMPANHA_OFERTAS_EXCLUSIVAS.png | 350.76 KB | .png | 2024-09-23T16:54:22.000Z |
 | content/Leroy.png | 2.17 KB | .png | 2023-10-03T02:57:08.000Z |
-| content/Marchand | 4 KB |  | 2024-12-18T12:53:40.000Z |
+| content/Marchand | 4 KB |  | 2025-01-21T20:31:04.000Z |
+| content/Marchand/CLIENTE PAPELERO2.jpg | 526.91 KB | .jpg | 2025-01-21T20:31:04.000Z |
 | content/Marchand/CLIENTE_MAYORISTA.jpg | 1.64 MB | .jpg | 2024-12-18T12:53:09.000Z |
+| content/Marchand/CREDITO-MARCHAND.jpg | 702.96 KB | .jpg | 2025-01-21T20:31:04.000Z |
 | content/Marchand/FACTURACION.jpg | 1.92 MB | .jpg | 2024-12-18T12:53:09.000Z |
+| content/Marchand/FACTURACION2.jpg | 674.57 KB | .jpg | 2025-01-21T20:31:04.000Z |
 | content/Marchand/SUPER-INICIO.jpg | 962.52 KB | .jpg | 2024-12-18T12:53:55.000Z |
 | content/Marchand/init.tx | 14 B | .tx | 2024-12-18T12:47:05.000Z |
 | content/Metroform_Catálogo_Digital.pdf | 6.95 MB | .pdf | 2024-09-17T13:50:35.000Z |
