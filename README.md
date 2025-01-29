@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 415
-  - ⚖️ Tamanho: 876.91 MB
+  - 📁 Arquivos: 420
+  - ⚖️ Tamanho: 883.44 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -56,6 +56,11 @@
 | content/Nissan/Novo Nissan Sentra.png | 4.18 MB | .png | 2023-09-08T15:01:13.000Z |
 | content/Nissan/Novo Nissan Versa.jpg | 2.34 MB | .jpg | 2023-09-12T12:35:29.000Z |
 | content/Nissan/nissan_frontier.png | 451.25 KB | .png | 2023-09-11T21:15:40.000Z |
+| content/Ofertas_Fecha_Mês_15x_AC.pdf | 1.31 MB | .pdf | 2025-01-28T19:10:45.000Z |
+| content/Ofertas_Fecha_Mês_15x_AM-PA.pdf | 1.31 MB | .pdf | 2025-01-28T19:10:45.000Z |
+| content/Ofertas_Fecha_Mês_15x_PR-MS-MT-GO-TO.pdf | 1.3 MB | .pdf | 2025-01-28T19:27:51.000Z |
+| content/Ofertas_Fecha_Mês_15x_PR-MT-GO.pdf | 1.3 MB | .pdf | 2025-01-28T19:10:45.000Z |
+| content/Ofertas_Fecha_Mês_15x_RO.pdf | 1.31 MB | .pdf | 2025-01-28T19:10:45.000Z |
 | content/Redutores_IBR_3.1.1.1.1.1.pdf | 1.36 MB | .pdf | 2022-08-05T17:25:09.000Z |
 | content/Redutores_IBR_3.1.1.1.1.2.pdf | 1.46 MB | .pdf | 2022-08-05T17:25:09.000Z |
 | content/Redutores_IBR_3.1.1.2.2.1.pdf | 1.32 MB | .pdf | 2022-08-05T17:25:09.000Z |
