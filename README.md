@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 420
-  - ⚖️ Tamanho: 883.44 MB
+  - 📁 Arquivos: 424
+  - ⚖️ Tamanho: 888.66 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -56,6 +56,10 @@
 | content/Nissan/Novo Nissan Sentra.png | 4.18 MB | .png | 2023-09-08T15:01:13.000Z |
 | content/Nissan/Novo Nissan Versa.jpg | 2.34 MB | .jpg | 2023-09-12T12:35:29.000Z |
 | content/Nissan/nissan_frontier.png | 451.25 KB | .png | 2023-09-11T21:15:40.000Z |
+| content/Ofertas_Fecha_Mes_15x_AC.pdf | 1.31 MB | .pdf | 2025-01-29T17:49:02.000Z |
+| content/Ofertas_Fecha_Mes_15x_AM_PA.pdf | 1.31 MB | .pdf | 2025-01-29T17:49:02.000Z |
+| content/Ofertas_Fecha_Mes_15x_PR_MS_MT_GO_TO.pdf | 1.3 MB | .pdf | 2025-01-29T17:49:02.000Z |
+| content/Ofertas_Fecha_Mes_15x_RO.pdf | 1.31 MB | .pdf | 2025-01-29T17:58:52.000Z |
 | content/Ofertas_Fecha_Mês_15x_AC.pdf | 1.31 MB | .pdf | 2025-01-28T19:10:45.000Z |
 | content/Ofertas_Fecha_Mês_15x_AM-PA.pdf | 1.31 MB | .pdf | 2025-01-28T19:10:45.000Z |
 | content/Ofertas_Fecha_Mês_15x_PR-MS-MT-GO-TO.pdf | 1.3 MB | .pdf | 2025-01-28T19:27:51.000Z |
