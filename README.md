@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 424
-  - ⚖️ Tamanho: 888.66 MB
+  - 📁 Arquivos: 425
+  - ⚖️ Tamanho: 888.78 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -168,6 +168,7 @@
 | content/datafeed_ptbr.png | 73.08 KB | .png | 2023-08-27T20:54:54.000Z |
 | content/dawntech.png | 6.59 KB | .png | 2022-08-04T22:18:21.000Z |
 | content/disparos_ativos.js | 2.07 KB | .js | 2023-04-14T18:41:52.000Z |
+| content/docs_view_shopify.png | 127.37 KB | .png | 2025-02-02T15:55:13.000Z |
 | content/donna-icon.png | 867.66 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/dt.png | 269.09 KB | .png | 2024-06-27T11:50:31.000Z |
 | content/eces24 | 4 KB |  | 2024-09-16T19:23:06.000Z |
