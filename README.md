@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 425
-  - ⚖️ Tamanho: 888.78 MB
+  - 📁 Arquivos: 426
+  - ⚖️ Tamanho: 904.63 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -97,10 +97,11 @@
 | content/barcelos/barcelos-persona_512x512.webp | 18.99 KB | .webp | 2024-05-03T16:10:00.000Z |
 | content/barcelos/file | 9 B |  | 2024-02-08T11:34:07.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
-| content/beto-carrero | 4 KB |  | 2024-12-18T20:18:28.000Z |
+| content/beto-carrero | 4 KB |  | 2025-02-11T18:37:04.000Z |
 | content/beto-carrero/alerta_para_preencher_nome_2024.jpg | 72.56 KB | .jpg | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/boas_vindas_2024.mp4 | 15.47 MB | .mp4 | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/confirmacao_passaportes_preenchidos_2024.jpg | 60.55 KB | .jpg | 2024-11-11T15:28:34.000Z |
+| content/beto-carrero/dicas_comvideo.mp4 | 15.85 MB | .mp4 | 2025-02-11T18:37:04.000Z |
 | content/beto-carrero/ecom_dicas_dia_visita.mp4 | 15.16 MB | .mp4 | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/ecom_fast_pass_agendado.mp4 | 15.16 MB | .mp4 | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/envio_2_dia_cdv.jpg | 203.41 KB | .jpg | 2024-11-11T15:28:34.000Z |
