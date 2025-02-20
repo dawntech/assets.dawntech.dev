@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 429
-  - ⚖️ Tamanho: 904.69 MB
+  - 📁 Arquivos: 430
+  - ⚖️ Tamanho: 904.72 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -134,6 +134,7 @@
 | content/byx_transparente.png | 8.06 KB | .png | 2025-02-15T23:07:05.000Z |
 | content/c4m1l4-c9c6da9c-a044.webp | 17.43 KB | .webp | 2023-12-21T21:28:16.000Z |
 | content/camapanha-lm-midea.png | 93.62 KB | .png | 2024-08-19T19:29:37.000Z |
+| content/camila-laranja-512-1x1.webp | 22.98 KB | .webp | 2025-02-19T19:25:15.000Z |
 | content/campanha-lm-aniversario.png | 2.11 MB | .png | 2024-08-16T17:51:54.000Z |
 | content/campanha-orcamentos.png | 748.87 KB | .png | 2024-07-22T19:13:29.000Z |
 | content/campanha_lm_cashback.jpeg | 75.66 KB | .jpeg | 2024-08-29T15:48:31.000Z |
