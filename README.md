@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 430
-  - ⚖️ Tamanho: 904.72 MB
+  - 📁 Arquivos: 431
+  - ⚖️ Tamanho: 905.11 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -430,6 +430,7 @@
 | content/wevo_config_en.png | 120.31 KB | .png | 2023-12-17T21:23:47.000Z |
 | content/wevo_config_es.png | 125.5 KB | .png | 2023-12-17T21:23:47.000Z |
 | content/wevo_config_ptbr.png | 66.16 KB | .png | 2023-12-17T21:23:47.000Z |
+| content/womenhm.jpg | 399.17 KB | .jpg | 2025-02-20T19:10:45.000Z |
 | dt.png | 269.09 KB | .png | 2024-06-27T11:49:15.000Z |
 | engovafter.pdf | 84.65 KB | .pdf | 2024-05-20T11:24:17.000Z |
 | lap1.jpg | 193.9 KB | .jpg | 2023-08-13T02:56:02.000Z |
