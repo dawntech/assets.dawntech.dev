@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 434
-  - ⚖️ Tamanho: 908.12 MB
+  - 📁 Arquivos: 435
+  - ⚖️ Tamanho: 908.48 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -19,6 +19,7 @@
 | content/Camila_Apresentação.pdf | 9.56 MB | .pdf | 2024-12-10T10:43:05.000Z |
 | content/Camila_Avatar_Produtor.webp | 19.43 KB | .webp | 2024-12-09T18:10:46.000Z |
 | content/Camila_Avatar_Produtor_2.webp | 213.1 KB | .webp | 2024-12-09T18:54:48.000Z |
+| content/Contemplacao_Consorcio.pdf | 371.67 KB | .pdf | 2025-03-19T14:15:18.000Z |
 | content/Coplacana_Feira_do_Amendoim.jpeg | 136.46 KB | .jpeg | 2022-08-09T17:24:13.000Z |
 | content/DEZ24_CAMPANHA PERDÃO DE DÍVIDAS_INFORMATIVO WHATSAPP2x1.png | 429.08 KB | .png | 2024-12-06T14:00:58.000Z |
 | content/Depósito BETDASORTE.mp4 | 21.32 MB | .mp4 | 2024-10-28T20:47:45.000Z |
