@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 435
-  - ⚖️ Tamanho: 908.48 MB
+  - 📁 Arquivos: 437
+  - ⚖️ Tamanho: 911.48 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -77,6 +77,8 @@
 | content/Tabloide_PR_MS_GO_Gazin.pdf | 4.83 MB | .pdf | 2024-11-27T14:56:05.000Z |
 | content/Tabloide_RO_Gazin.pdf | 4.69 MB | .pdf | 2024-11-27T14:56:05.000Z |
 | content/Video.mp4 | 5.26 MB | .mp4 | 2022-08-12T14:23:51.000Z |
+| content/WK13_M_Linen_3x2.jpg | 2.88 MB | .jpg | 2025-03-23T16:09:12.000Z |
+| content/WK13_W_Linen_3x2.jpg | 127.68 KB | .jpg | 2025-03-23T16:09:12.000Z |
 | content/WhatsApp Image 2023-04-03 at 11.51.01.jpeg | 135.64 KB | .jpeg | 2023-05-16T22:22:39.000Z |
 | content/a7cc5b8a-a6cc-4f93-bcbd-154cd77ec307.mp4 | 1.38 MB | .mp4 | 2022-09-02T03:05:09.000Z |
 | content/amstel | 4 KB |  | 2024-03-13T17:10:52.000Z |
