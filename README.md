@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 442
-  - ⚖️ Tamanho: 912.25 MB
+  - 📁 Arquivos: 445
+  - ⚖️ Tamanho: 912.65 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -221,9 +221,12 @@
 | content/fundo_transparente_letras_brancas_apenas_nome_e_slogan.png | 95.47 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas.png | 102.95 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas_apenas_nome_e_slogan.png | 121.08 KB | .png | 2024-02-27T13:58:16.000Z |
-| content/gazin | 4 KB |  | 2025-04-03T18:50:07.000Z |
+| content/gazin | 4 KB |  | 2025-04-08T18:48:51.000Z |
+| content/gazin/gazinbank-carrossel-antecipacao-recebiveis-v2.jpeg | 137.65 KB | .jpeg | 2025-04-08T18:48:51.000Z |
 | content/gazin/gazinbank-carrossel-antecipacao-recebiveis.png | 231.31 KB | .png | 2025-04-03T18:50:07.000Z |
+| content/gazin/gazinbank-carrossel-capital-de-giro-v2.jpeg | 153.08 KB | .jpeg | 2025-04-08T18:48:51.000Z |
 | content/gazin/gazinbank-carrossel-capital-de-giro.png | 332.66 KB | .png | 2025-04-02T17:44:54.000Z |
+| content/gazin/gazinbank-carrossel-conta-pf-v2.jpeg | 119.21 KB | .jpeg | 2025-04-08T18:48:51.000Z |
 | content/gazin/gazinbank-carrossel-conta-pf.png | 217.76 KB | .png | 2025-04-03T18:50:07.000Z |
 | content/gazin/teste.txt | 6 B | .txt | 2025-04-02T17:43:49.000Z |
 | content/h-and-m | 4 KB |  | 2024-10-31T13:13:51.000Z |
