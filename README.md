@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 445
-  - ⚖️ Tamanho: 912.65 MB
+  - 📁 Arquivos: 450
+  - ⚖️ Tamanho: 913.76 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -370,6 +370,11 @@
 | content/meurodape_transparente.png | 33.47 KB | .png | 2024-05-23T12:26:51.000Z |
 | content/michelin-localizacao.jpeg | 245 KB | .jpeg | 2023-10-31T21:22:35.000Z |
 | content/michelin-medida-pneu.jpeg | 237.42 KB | .jpeg | 2023-10-31T21:22:35.000Z |
+| content/monaco | 4 KB |  | 2025-04-23T21:13:07.000Z |
+| content/monaco/*.txt | 1 B | .txt | 2025-04-23T21:12:11.000Z |
+| content/monaco/follow-up-pos-vendas.png | 428.68 KB | .png | 2025-04-23T21:13:07.000Z |
+| content/monaco/follow-up-recorrente.png | 328.42 KB | .png | 2025-04-23T21:13:07.000Z |
+| content/monaco/oferta-de-revisao.png | 376.45 KB | .png | 2025-04-23T21:13:07.000Z |
 | content/monteZaion | 4 KB |  | 2024-09-02T12:32:22.000Z |
 | content/monteZaion/MONTE ZAION 1 (1) (1) (1) (1) (1) (1).mp4 | 20.02 MB | .mp4 | 2024-09-02T12:32:22.000Z |
 | content/monteZaion/Teste.text | 1 B | .text | 2024-09-02T11:49:44.000Z |
