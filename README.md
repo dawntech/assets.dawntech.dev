@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 450
-  - ⚖️ Tamanho: 913.76 MB
+  - 📁 Arquivos: 451
+  - ⚖️ Tamanho: 913.96 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -221,7 +221,8 @@
 | content/fundo_transparente_letras_brancas_apenas_nome_e_slogan.png | 95.47 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas.png | 102.95 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas_apenas_nome_e_slogan.png | 121.08 KB | .png | 2024-02-27T13:58:16.000Z |
-| content/gazin | 4 KB |  | 2025-04-22T19:44:40.000Z |
+| content/gazin | 4 KB |  | 2025-05-15T17:55:58.000Z |
+| content/gazin/Termo de Autorização Gazinbank.pdf | 203.09 KB | .pdf | 2025-05-15T17:55:58.000Z |
 | content/gazin/gazinbank-carrossel-antecipacao-recebiveis-v2.jpeg | 137.65 KB | .jpeg | 2025-04-08T18:48:51.000Z |
 | content/gazin/gazinbank-carrossel-antecipacao-recebiveis.png | 231.31 KB | .png | 2025-04-03T18:50:07.000Z |
 | content/gazin/gazinbank-carrossel-capital-de-giro-v2.jpeg | 153.08 KB | .jpeg | 2025-04-08T18:48:51.000Z |
