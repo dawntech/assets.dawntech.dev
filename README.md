@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 451
-  - ⚖️ Tamanho: 913.96 MB
+  - 📁 Arquivos: 452
+  - ⚖️ Tamanho: 914.16 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -230,6 +230,7 @@
 | content/gazin/gazinbank-carrossel-conta-pf-v2.jpeg | 119.21 KB | .jpeg | 2025-04-08T18:48:51.000Z |
 | content/gazin/gazinbank-carrossel-conta-pf.png | 217.76 KB | .png | 2025-04-03T18:50:07.000Z |
 | content/gazin/teste.txt | 6 B | .txt | 2025-04-02T17:43:49.000Z |
+| content/gazin-divida-quitada.jpeg | 206.97 KB | .jpeg | 2025-06-11T14:53:09.000Z |
 | content/h-and-m | 4 KB |  | 2024-10-31T13:13:51.000Z |
 | content/h-and-m/6000-1x1-2-holiday-2024-kids.jpg | 384.14 KB | .jpg | 2024-10-31T13:13:51.000Z |
 | content/h-and-m/FNP-6000-1x1-Push-thumbnail-holiday-2024-men.jpg | 119.81 KB | .jpg | 2024-10-31T13:13:51.000Z |
