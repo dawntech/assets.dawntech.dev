@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 452
-  - ⚖️ Tamanho: 914.16 MB
+  - 📁 Arquivos: 453
+  - ⚖️ Tamanho: 914.18 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -114,6 +114,7 @@
 | content/beto-carrero/pedido_aprovado_2024.jpg | 71.18 KB | .jpg | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/pesquisa_satisfacao.jpg | 22.84 KB | .jpg | 2024-12-18T20:18:28.000Z |
 | content/beto-carrero/test.txt | 9 B | .txt | 2024-11-11T15:07:33.000Z |
+| content/blipcommerce.jpeg | 21.78 KB | .jpeg | 2025-06-17T16:05:07.000Z |
 | content/byx-caixa-aqui | 4 KB |  | 2025-01-13T21:01:42.000Z |
 | content/byx-caixa-aqui/00. Transbordo em qualquer momento do fluxo.mp3 | 127.75 KB | .mp3 | 2025-01-07T12:58:50.000Z |
 | content/byx-caixa-aqui/01. Boas vindas ao atendimento.mp3 | 205.31 KB | .mp3 | 2025-01-13T21:01:42.000Z |
