@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 453
-  - ⚖️ Tamanho: 914.18 MB
+  - 📁 Arquivos: 455
+  - ⚖️ Tamanho: 914.21 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -136,6 +136,7 @@
 | content/byx.png | 30.83 KB | .png | 2025-02-15T22:58:33.000Z |
 | content/byx_branco.png | 26.81 KB | .png | 2025-02-15T23:07:05.000Z |
 | content/byx_transparente.png | 8.06 KB | .png | 2025-02-15T23:07:05.000Z |
+| content/byxnewlogo.png | 16.88 KB | .png | 2025-06-18T12:31:35.000Z |
 | content/c4m1l4-c9c6da9c-a044.webp | 17.43 KB | .webp | 2023-12-21T21:28:16.000Z |
 | content/camapanha-lm-midea.png | 93.62 KB | .png | 2024-08-19T19:29:37.000Z |
 | content/camila-laranja-512-1x1.webp | 22.98 KB | .webp | 2025-02-19T19:25:15.000Z |
@@ -238,6 +239,7 @@
 | content/h-and-m/FNP-6000-FN-1-image-3-holiday-2024-women.jpg | 376.13 KB | .jpg | 2024-10-31T13:13:51.000Z |
 | content/h-and-m/SMS 6010 woman.jpg | 359.48 KB | .jpg | 2024-10-24T17:11:44.000Z |
 | content/h-and-m/dummy-campaign-image.png | 4.4 MB | .png | 2024-10-13T18:42:18.000Z |
+| content/iconbyxnewlogo.png | 5.82 KB | .png | 2025-06-18T12:33:25.000Z |
 | content/image_1.png | 267.19 KB | .png | 2023-03-23T03:19:04.000Z |
 | content/image_2.png | 78.12 KB | .png | 2023-03-23T03:19:04.000Z |
 | content/image_3.png | 97.03 KB | .png | 2023-03-23T03:19:04.000Z |
