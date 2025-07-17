@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 455
-  - ⚖️ Tamanho: 914.21 MB
+  - 📁 Arquivos: 461
+  - ⚖️ Tamanho: 914.55 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -432,6 +432,12 @@
 | content/sos/Termos-de-Uso-Doacoes-em-um-Blip-SOS-RS-21.05.24.pdf | 220.02 KB | .pdf | 2024-05-24T19:35:35.000Z |
 | content/sos/main.txt | 1 B | .txt | 2024-05-24T19:34:28.000Z |
 | content/testeativosaquamar.JPG | 1.06 MB | .JPG | 2024-02-26T15:02:48.000Z |
+| content/ultragaz | 4 KB |  | 2025-07-16T21:31:58.000Z |
+| content/ultragaz/p13.png | 129.69 KB | .png | 2025-07-16T21:31:58.000Z |
+| content/ultragaz/p20.png | 57.75 KB | .png | 2025-07-16T21:31:58.000Z |
+| content/ultragaz/p45.png | 49.08 KB | .png | 2025-07-16T21:31:58.000Z |
+| content/ultragaz/p5.png | 112.94 KB | .png | 2025-07-16T21:31:58.000Z |
+| content/ultragaz/teste.txt | 1 B | .txt | 2025-07-16T21:29:47.000Z |
 | content/use_pimenta_rosa_logo.jpeg | 9.82 KB | .jpeg | 2023-11-09T17:29:57.000Z |
 | content/vtex_checkout_masterdata_en.png | 22.16 KB | .png | 2023-08-21T02:37:06.000Z |
 | content/vtex_checkout_masterdata_ptbr.png | 165.03 KB | .png | 2023-08-21T02:37:06.000Z |
