@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 461
-  - ⚖️ Tamanho: 914.55 MB
+  - 📁 Arquivos: 466
+  - ⚖️ Tamanho: 944.38 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -223,7 +223,12 @@
 | content/fundo_transparente_letras_brancas_apenas_nome_e_slogan.png | 95.47 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas.png | 102.95 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas_apenas_nome_e_slogan.png | 121.08 KB | .png | 2024-02-27T13:58:16.000Z |
-| content/gazin | 4 KB |  | 2025-05-15T17:55:58.000Z |
+| content/gazin | 4 KB |  | 2025-07-25T13:00:52.000Z |
+| content/gazin/Ofertas_Dia_Unico_P7_12x_AC_25-07-25.pdf | 6.02 MB | .pdf | 2025-07-25T13:00:52.000Z |
+| content/gazin/Ofertas_Dia_Unico_P7_12x_AM-PA_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T13:00:52.000Z |
+| content/gazin/Ofertas_Dia_Unico_P7_12x_MT_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T13:00:52.000Z |
+| content/gazin/Ofertas_Dia_Unico_P7_12x_PR-MS-GO_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T13:00:52.000Z |
+| content/gazin/Ofertas_Dia_Unico_P7_12x_RO_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T12:56:02.000Z |
 | content/gazin/Termo de Autorização Gazinbank.pdf | 203.09 KB | .pdf | 2025-05-15T17:55:58.000Z |
 | content/gazin/gazinbank-carrossel-antecipacao-recebiveis-v2.jpeg | 137.65 KB | .jpeg | 2025-04-08T18:48:51.000Z |
 | content/gazin/gazinbank-carrossel-antecipacao-recebiveis.png | 231.31 KB | .png | 2025-04-03T18:50:07.000Z |
