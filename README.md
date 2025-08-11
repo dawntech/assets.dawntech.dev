@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 466
-  - ⚖️ Tamanho: 944.38 MB
+  - 📁 Arquivos: 467
+  - ⚖️ Tamanho: 944.41 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -244,6 +244,7 @@
 | content/h-and-m/FNP-6000-FN-1-image-3-holiday-2024-women.jpg | 376.13 KB | .jpg | 2024-10-31T13:13:51.000Z |
 | content/h-and-m/SMS 6010 woman.jpg | 359.48 KB | .jpg | 2024-10-24T17:11:44.000Z |
 | content/h-and-m/dummy-campaign-image.png | 4.4 MB | .png | 2024-10-13T18:42:18.000Z |
+| content/happyconsiglogo.png | 30.25 KB | .png | 2025-08-10T17:54:48.000Z |
 | content/iconbyxnewlogo.png | 5.82 KB | .png | 2025-06-18T12:33:25.000Z |
 | content/image_1.png | 267.19 KB | .png | 2023-03-23T03:19:04.000Z |
 | content/image_2.png | 78.12 KB | .png | 2023-03-23T03:19:04.000Z |
