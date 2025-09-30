@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 469
-  - ⚖️ Tamanho: 944.53 MB
+  - 📁 Arquivos: 471
+  - ⚖️ Tamanho: 948.67 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -286,6 +286,8 @@
 | content/lastlink/6.jpeg | 43.83 KB | .jpeg | 2024-09-02T19:29:05.000Z |
 | content/lastlink/7.jpeg | 43.07 KB | .jpeg | 2024-09-02T19:29:51.000Z |
 | content/lastlink/text.txt | 1 B | .txt | 2024-08-22T20:03:18.000Z |
+| content/leroy-merlin | 4 KB |  | 2025-09-29T03:42:53.000Z |
+| content/leroy-merlin/Aniversario-25-anos.mp4 | 4.14 MB | .mp4 | 2025-09-29T03:42:53.000Z |
 | content/lindacasa.png | 33.46 KB | .png | 2023-11-28T00:39:02.000Z |
 | content/logo-small.ico | 264.06 KB | .ico | 2024-02-27T13:58:16.000Z |
 | content/logo-small.jpg | 47.25 KB | .jpg | 2024-02-27T13:58:16.000Z |
