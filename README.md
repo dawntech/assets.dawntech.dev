@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 477
-  - ⚖️ Tamanho: 949.64 MB
+  - 📁 Arquivos: 478
+  - ⚖️ Tamanho: 949.71 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -398,8 +398,9 @@
 | content/mybar | 4 KB |  | 2024-05-24T18:39:38.000Z |
 | content/mybar/imagem_apresentacao_27-05.png | 140.2 KB | .png | 2024-05-24T15:03:51.000Z |
 | content/naguirre.png | 21.98 KB | .png | 2023-11-25T12:57:27.000Z |
-| content/neon | 4 KB |  | 2025-10-09T15:25:23.000Z |
+| content/neon | 4 KB |  | 2025-10-11T05:28:21.000Z |
 | content/neon/*.txt | 5 B | .txt | 2025-10-09T15:22:24.000Z |
+| content/neon/faq_ilp-offboarding.pdf | 76.11 KB | .pdf | 2025-10-11T05:28:21.000Z |
 | content/neon/inss_complementacao_salarial.pdf | 59.83 KB | .pdf | 2025-10-09T15:25:23.000Z |
 | content/neon/inss_retorno_ao_trabalho.pdf | 46.37 KB | .pdf | 2025-10-09T15:25:23.000Z |
 | content/nextdaytutorial.jpeg | 48.55 KB | .jpeg | 2024-08-22T02:57:47.000Z |
