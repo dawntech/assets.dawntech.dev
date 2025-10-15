@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 478
-  - ⚖️ Tamanho: 949.71 MB
+  - 📁 Arquivos: 491
+  - ⚖️ Tamanho: 950.61 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -153,6 +153,18 @@
 | content/catalyst_4.png | 278.66 KB | .png | 2024-03-17T21:24:16.000Z |
 | content/cb883a50-54a5-4f98-9ccd-f152ef75f7f3.jpg | 94.79 KB | .jpg | 2024-05-08T17:10:51.000Z |
 | content/cc395261-708a-43fd-823c-e6f9999224cas.mp4 | 7.38 MB | .mp4 | 2022-09-03T19:03:30.000Z |
+| content/chatbot-comunicados-internos | 4 KB |  | 2025-10-14T18:50:08.000Z |
+| content/chatbot-comunicados-internos/foco-general.png | 59.7 KB | .png | 2025-10-14T23:53:00.000Z |
+| content/chatbot-comunicados-internos/foco-manutencao.png | 59.6 KB | .png | 2025-10-14T23:53:00.000Z |
+| content/chatbot-comunicados-internos/foco-test.png | 59.8 KB | .png | 2025-10-14T23:53:00.000Z |
+| content/chatbot-comunicados-internos/manutencao-enabled.png | 25.95 KB | .png | 2025-10-14T23:53:00.000Z |
+| content/chatbot-comunicados-internos/manutencao-message.png | 26.28 KB | .png | 2025-10-14T23:53:00.000Z |
+| content/chatbot-comunicados-internos/opcao-conteudos.png | 35.58 KB | .png | 2025-10-14T18:50:08.000Z |
+| content/chatbot-comunicados-internos/opcao-recursos.png | 24.68 KB | .png | 2025-10-14T18:50:08.000Z |
+| content/chatbot-comunicados-internos/test-ativar.png | 77.95 KB | .png | 2025-10-14T18:37:47.000Z |
+| content/chatbot-comunicados-internos/test-editar.png | 26.34 KB | .png | 2025-10-14T18:37:47.000Z |
+| content/chatbot-comunicados-internos/test-salvar.png | 46.59 KB | .png | 2025-10-14T18:37:47.000Z |
+| content/chatbot-comunicados-internos/todos-recursos.png | 59.58 KB | .png | 2025-10-14T23:53:00.000Z |
 | content/coplacampos | 4 KB |  | 2024-03-05T20:34:11.000Z |
 | content/coplacampos/1.png | 923.3 KB | .png | 2024-02-22T23:27:06.000Z |
 | content/coplacampos/10.png | 896.19 KB | .png | 2024-02-22T23:27:06.000Z |
@@ -398,11 +410,12 @@
 | content/mybar | 4 KB |  | 2024-05-24T18:39:38.000Z |
 | content/mybar/imagem_apresentacao_27-05.png | 140.2 KB | .png | 2024-05-24T15:03:51.000Z |
 | content/naguirre.png | 21.98 KB | .png | 2023-11-25T12:57:27.000Z |
-| content/neon | 4 KB |  | 2025-10-11T05:28:21.000Z |
+| content/neon | 4 KB |  | 2025-10-15T03:23:12.000Z |
 | content/neon/*.txt | 5 B | .txt | 2025-10-09T15:22:24.000Z |
 | content/neon/faq_ilp-offboarding.pdf | 76.11 KB | .pdf | 2025-10-11T05:28:21.000Z |
 | content/neon/inss_complementacao_salarial.pdf | 59.83 KB | .pdf | 2025-10-09T15:25:23.000Z |
 | content/neon/inss_retorno_ao_trabalho.pdf | 46.37 KB | .pdf | 2025-10-09T15:25:23.000Z |
+| content/neon/passo_a_passo_homologacao_medei.pdf | 414.68 KB | .pdf | 2025-10-15T03:23:12.000Z |
 | content/nextdaytutorial.jpeg | 48.55 KB | .jpeg | 2024-08-22T02:57:47.000Z |
 | content/overcome | 4 KB |  | 2024-10-07T14:16:32.000Z |
 | content/overcome/OVCM - apresentação multimarcas.pdf | 9.81 MB | .pdf | 2024-08-21T18:12:28.000Z |
