@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 491
-  - ⚖️ Tamanho: 950.61 MB
+  - 📁 Arquivos: 492
+  - ⚖️ Tamanho: 950.7 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -226,6 +226,7 @@
 | content/eolias/combo_treino-performance.png | 277.63 KB | .png | 2024-05-17T13:42:15.000Z |
 | content/eolias/combo_treino-performance.webp | 37.26 KB | .webp | 2024-05-17T13:39:43.000Z |
 | content/erica_figurinha_echoenergia_formatado.webp | 24.92 KB | .webp | 2023-11-22T14:18:48.000Z |
+| content/exemplo_dispatcher.png | 89.08 KB | .png | 2025-10-25T22:42:02.000Z |
 | content/f4058ef4-a02f-45bc-afc5-4a1b200b70fa.jpg | 146.08 KB | .jpg | 2023-05-03T22:21:56.000Z |
 | content/favicon.ico | 14.27 KB | .ico | 2024-04-29T03:01:03.000Z |
 | content/fd58385c-09ce-457d-8d42-bc48e4a99abe.webp | 24.2 KB | .webp | 2022-08-30T15:13:11.000Z |
