@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 492
-  - ⚖️ Tamanho: 950.7 MB
+  - 📁 Arquivos: 493
+  - ⚖️ Tamanho: 950.73 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -304,6 +304,7 @@
 | content/leroy-merlin/CARTA-2026-BALANÇO.png | 493.23 KB | .png | 2025-09-30T23:28:34.000Z |
 | content/leroy-merlin/CARTA-2026-OFERTA.png | 391.47 KB | .png | 2025-09-30T23:28:34.000Z |
 | content/lindacasa.png | 33.46 KB | .png | 2023-11-28T00:39:02.000Z |
+| content/logo-branco.png | 27.71 KB | .png | 2025-11-07T21:50:30.000Z |
 | content/logo-small.ico | 264.06 KB | .ico | 2024-02-27T13:58:16.000Z |
 | content/logo-small.jpg | 47.25 KB | .jpg | 2024-02-27T13:58:16.000Z |
 | content/logo-sticker.webp | 57.81 KB | .webp | 2023-04-05T17:35:36.000Z |
