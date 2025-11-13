@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 493
+  - 📁 Arquivos: 495
   - ⚖️ Tamanho: 950.73 MB
     
   | File | Size | Ext | Mtime |
@@ -100,6 +100,8 @@
 | content/barcelos/barcelos-persona_512x512.webp | 18.99 KB | .webp | 2024-05-03T16:10:00.000Z |
 | content/barcelos/file | 9 B |  | 2024-02-08T11:34:07.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
+| content/bees | 4 KB |  | 2025-11-12T15:40:18.000Z |
+| content/bees/text.txt | 1 B | .txt | 2025-11-12T15:40:18.000Z |
 | content/beto-carrero | 4 KB |  | 2025-02-11T18:37:04.000Z |
 | content/beto-carrero/alerta_para_preencher_nome_2024.jpg | 72.56 KB | .jpg | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/boas_vindas_2024.mp4 | 15.47 MB | .mp4 | 2024-11-11T15:28:34.000Z |
