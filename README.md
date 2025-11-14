@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 495
-  - ⚖️ Tamanho: 950.73 MB
+  - 📁 Arquivos: 497
+  - ⚖️ Tamanho: 951.19 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -185,6 +185,7 @@
 | content/coplacampos/MAPA.pdf | 989.64 KB | .pdf | 2024-02-23T12:23:54.000Z |
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
+| content/corona600ml.png | 385.2 KB | .png | 2025-11-13T20:48:36.000Z |
 | content/csdwnt.png | 2.35 MB | .png | 2024-06-15T22:58:42.000Z |
 | content/d296f3a7-a786-49d5-bd26-418122bba852r.mp4 | 1.39 MB | .mp4 | 2022-09-03T19:03:30.000Z |
 | content/d595467c-dad3-4112-8238-b9e111c2f097.jpeg | 65.83 KB | .jpeg | 2023-03-24T18:51:12.000Z |
@@ -473,6 +474,7 @@
 | content/ultragaz/p5.png | 112.94 KB | .png | 2025-07-16T21:31:58.000Z |
 | content/ultragaz/teste.txt | 1 B | .txt | 2025-07-16T21:29:47.000Z |
 | content/use_pimenta_rosa_logo.jpeg | 9.82 KB | .jpeg | 2023-11-09T17:29:57.000Z |
+| content/valendopontos.png | 83.92 KB | .png | 2025-11-13T20:32:22.000Z |
 | content/vtex_checkout_masterdata_en.png | 22.16 KB | .png | 2023-08-21T02:37:06.000Z |
 | content/vtex_checkout_masterdata_ptbr.png | 165.03 KB | .png | 2023-08-21T02:37:06.000Z |
 | content/vtex_config_en.png | 66.96 KB | .png | 2023-08-27T20:19:35.000Z |
