@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 498
-  - ⚖️ Tamanho: 951.49 MB
+  - 📁 Arquivos: 505
+  - ⚖️ Tamanho: 953.55 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -100,7 +100,13 @@
 | content/barcelos/barcelos-persona_512x512.webp | 18.99 KB | .webp | 2024-05-03T16:10:00.000Z |
 | content/barcelos/file | 9 B |  | 2024-02-08T11:34:07.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
-| content/bees | 4 KB |  | 2025-11-14T13:40:23.000Z |
+| content/bees | 4 KB |  | 2025-11-19T14:07:22.000Z |
+| content/bees/01_intro.png | 264.41 KB | .png | 2025-11-19T21:58:53.000Z |
+| content/bees/02_promocao.png | 428.24 KB | .png | 2025-11-19T22:00:46.000Z |
+| content/bees/03_missoes.png | 327.79 KB | .png | 2025-11-19T22:00:46.000Z |
+| content/bees/04_oferta-pontos.png | 457.33 KB | .png | 2025-11-19T22:00:46.000Z |
+| content/bees/05_resgate.png | 376.54 KB | .png | 2025-11-19T22:00:46.000Z |
+| content/bees/06_roleta.png | 246.08 KB | .png | 2025-11-19T22:00:46.000Z |
 | content/bees/bees-convite.png | 305.59 KB | .png | 2025-11-14T13:40:23.000Z |
 | content/bees/text.txt | 1 B | .txt | 2025-11-12T15:40:18.000Z |
 | content/beto-carrero | 4 KB |  | 2025-02-11T18:37:04.000Z |
@@ -263,6 +269,7 @@
 | content/h-and-m/SMS 6010 woman.jpg | 359.48 KB | .jpg | 2024-10-24T17:11:44.000Z |
 | content/h-and-m/dummy-campaign-image.png | 4.4 MB | .png | 2024-10-13T18:42:18.000Z |
 | content/happyconsiglogo.png | 30.25 KB | .png | 2025-08-10T17:54:48.000Z |
+| content/heineken.png | 10.5 KB | .png | 2025-11-19T21:35:23.000Z |
 | content/iconbyxnewlogo.png | 5.82 KB | .png | 2025-06-18T12:33:25.000Z |
 | content/image_1.png | 267.19 KB | .png | 2023-03-23T03:19:04.000Z |
 | content/image_2.png | 78.12 KB | .png | 2023-03-23T03:19:04.000Z |
