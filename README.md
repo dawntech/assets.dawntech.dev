@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 511
-  - ⚖️ Tamanho: 958.4 MB
+  - 📁 Arquivos: 529
+  - ⚖️ Tamanho: 1009.46 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -435,6 +435,24 @@
 | content/neon/inss_complementacao_salarial.pdf | 59.83 KB | .pdf | 2025-10-09T15:25:23.000Z |
 | content/neon/inss_retorno_ao_trabalho.pdf | 46.37 KB | .pdf | 2025-10-09T15:25:23.000Z |
 | content/neon/passo_a_passo_homologacao_medei.pdf | 414.68 KB | .pdf | 2025-10-15T03:23:12.000Z |
+| content/nestle_receitas | 4 KB |  | 2025-11-28T12:50:43.000Z |
+| content/nestle_receitas/CLASSICO.mp4 | 6.43 MB | .mp4 | 2025-11-28T12:46:49.000Z |
+| content/nestle_receitas/CRIATIVO.mp4 | 10.71 MB | .mp4 | 2025-11-28T12:50:09.000Z |
+| content/nestle_receitas/ECONOMICO.mp4 | 5.25 MB | .mp4 | 2025-11-28T12:50:09.000Z |
+| content/nestle_receitas/MAIS_SAUDAVEL.mp4 | 5.62 MB | .mp4 | 2025-11-28T12:50:09.000Z |
+| content/nestle_receitas/NA_AIR_FRYER.mp4 | 7.81 MB | .mp4 | 2025-11-28T12:50:43.000Z |
+| content/nestle_receitas/a_dois.mp4 | 13.22 MB | .mp4 | 2025-11-28T12:46:49.000Z |
+| content/nestle_receitas/desdobramentos1x1.png | 595.46 KB | .png | 2025-11-28T12:41:44.000Z |
+| content/nestle_receitas/desdobramentos300x250.png | 58.34 KB | .png | 2025-11-28T12:41:44.000Z |
+| content/nestle_receitas/figurinha1.webp | 91.25 KB | .webp | 2025-11-28T12:41:44.000Z |
+| content/nestle_receitas/figurinha2.webp | 70.22 KB | .webp | 2025-11-28T12:41:44.000Z |
+| content/nestle_receitas/figurinha3.webp | 78.32 KB | .webp | 2025-11-28T12:41:44.000Z |
+| content/nestle_receitas/figurinha4.webp | 78.61 KB | .webp | 2025-11-28T12:41:44.000Z |
+| content/nestle_receitas/figurinha5.webp | 95.83 KB | .webp | 2025-11-28T12:41:44.000Z |
+| content/nestle_receitas/figurinha6.webp | 93.33 KB | .webp | 2025-11-28T12:41:44.000Z |
+| content/nestle_receitas/figurinha7.webp | 87.55 KB | .webp | 2025-11-28T12:41:44.000Z |
+| content/nestle_receitas/figurinha8.webp | 92.87 KB | .webp | 2025-11-28T12:41:44.000Z |
+| content/nestle_receitas/kv_hor.jpg | 716.42 KB | .jpg | 2025-11-28T12:41:44.000Z |
 | content/nextdaytutorial.jpeg | 48.55 KB | .jpeg | 2024-08-22T02:57:47.000Z |
 | content/overcome | 4 KB |  | 2024-10-07T14:16:32.000Z |
 | content/overcome/OVCM - apresentação multimarcas.pdf | 9.81 MB | .pdf | 2024-08-21T18:12:28.000Z |
