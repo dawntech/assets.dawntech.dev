@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 530
-  - ⚖️ Tamanho: 1019.05 MB
+  - 📁 Arquivos: 532
+  - ⚖️ Tamanho: 1019.68 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -10,10 +10,12 @@
 | catalyst-personal-shopper_2.png | 137.32 KB | .png | 2024-03-18T00:10:43.000Z |
 | catalyst_personal_shopper_3.png | 133.04 KB | .png | 2024-03-17T22:51:01.000Z |
 | content/08e8f50c-6fbd-49d8.webp | 21.71 KB | .webp | 2024-11-26T16:33:32.000Z |
+| content/17418737336673.webp | 92.15 KB | .webp | 2025-12-14T18:29:26.000Z |
 | content/5056124_9010F_Black_Friday_feed_1x1_9010_0006_es-MX.jpg | 765.37 KB | .jpg | 2024-11-30T17:33:47.000Z |
 | content/590d75be-8734-4a38-ab82-72ab44d6c883.png | 154.81 KB | .png | 2022-11-28T01:23:04.000Z |
 | content/618d4521-f10f-4737-8fae-98b1ce954d03.jpg | 89.36 KB | .jpg | 2022-11-16T13:21:42.000Z |
 | content/618d4521-f10f-4737-8fae-98b1ce954d04.jpg | 102.21 KB | .jpg | 2022-11-16T13:24:38.000Z |
+| content/77aca5de-aa15-413e-9b1f-7929d9198cc3.png | 550.95 KB | .png | 2025-12-14T18:29:26.000Z |
 | content/ANTES E DEPOIS MELASMA MOBILE_.jpg | 142.2 KB | .jpg | 2023-05-16T22:22:39.000Z |
 | content/Blip - Active Messages.postman_collection.json | 8.96 KB | .json | 2023-01-31T01:39:45.000Z |
 | content/Camila_Apresentação.pdf | 9.56 MB | .pdf | 2024-12-10T10:43:05.000Z |
