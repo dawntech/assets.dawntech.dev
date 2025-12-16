@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 532
-  - ⚖️ Tamanho: 1019.68 MB
+  - 📁 Arquivos: 536
+  - ⚖️ Tamanho: 1021.34 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -102,7 +102,7 @@
 | content/barcelos/barcelos-persona_512x512.webp | 18.99 KB | .webp | 2024-05-03T16:10:00.000Z |
 | content/barcelos/file | 9 B |  | 2024-02-08T11:34:07.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
-| content/bees | 4 KB |  | 2025-11-27T21:19:20.000Z |
+| content/bees | 4 KB |  | 2025-12-15T17:35:58.000Z |
 | content/bees/01-2711.png | 864.68 KB | .png | 2025-11-27T18:03:37.000Z |
 | content/bees/01_intro.png | 264.41 KB | .png | 2025-11-19T21:58:53.000Z |
 | content/bees/02-2711.png | 860.2 KB | .png | 2025-11-27T18:03:37.000Z |
@@ -114,6 +114,10 @@
 | content/bees/05-2711.jpeg | 253.36 KB | .jpeg | 2025-11-27T21:19:20.000Z |
 | content/bees/05_resgate.png | 376.54 KB | .png | 2025-11-19T22:00:46.000Z |
 | content/bees/06_roleta.png | 246.08 KB | .png | 2025-11-19T22:00:46.000Z |
+| content/bees/16dez_wpp_score-5_carrossel_01.jpg | 410.86 KB | .jpg | 2025-12-15T17:35:58.000Z |
+| content/bees/16dez_wpp_score-5_carrossel_02.jpg | 421.48 KB | .jpg | 2025-12-15T17:35:58.000Z |
+| content/bees/16dez_wpp_score-5_carrossel_03.jpg | 425.92 KB | .jpg | 2025-12-15T17:35:58.000Z |
+| content/bees/16dez_wpp_score-5_carrossel_04.jpg | 443.37 KB | .jpg | 2025-12-15T17:35:58.000Z |
 | content/bees/bees-convite.png | 305.59 KB | .png | 2025-11-14T13:40:23.000Z |
 | content/bees/pontos_dobro.mp4 | 1.17 MB | .mp4 | 2025-11-23T18:44:55.000Z |
 | content/bees/text.txt | 1 B | .txt | 2025-11-12T15:40:18.000Z |
