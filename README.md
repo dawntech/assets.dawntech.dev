@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 536
-  - ⚖️ Tamanho: 1021.34 MB
+  - 📁 Arquivos: 543
+  - ⚖️ Tamanho: 1022.6 MB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -97,10 +97,12 @@
 | content/animativa/moranguinho-rebecca-bonbon.png | 701.87 KB | .png | 2024-09-10T01:53:18.000Z |
 | content/animativa/teste.txt | 1 B | .txt | 2024-08-28T21:14:27.000Z |
 | content/astoria-info-tecnicas.png | 197.52 KB | .png | 2024-07-04T12:00:09.000Z |
-| content/barcelos | 4 KB |  | 2024-05-03T16:10:00.000Z |
+| content/barcelos | 4 KB |  | 2025-12-16T18:57:05.000Z |
 | content/barcelos/Barcelos-persona.webp | 9.29 MB | .webp | 2024-05-03T15:36:08.000Z |
 | content/barcelos/barcelos-persona_512x512.webp | 18.99 KB | .webp | 2024-05-03T16:10:00.000Z |
 | content/barcelos/file | 9 B |  | 2024-02-08T11:34:07.000Z |
+| content/barcelos/gazin-cover-rcs.png | 335.78 KB | .png | 2025-12-16T18:57:05.000Z |
+| content/barcelos/gazin-logo-rcs.png | 11.21 KB | .png | 2025-12-16T18:57:05.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
 | content/bees | 4 KB |  | 2025-12-15T17:35:58.000Z |
 | content/bees/01-2711.png | 864.68 KB | .png | 2025-11-27T18:03:37.000Z |
@@ -204,6 +206,9 @@
 | content/coplacampos/MAPA.pdf | 989.64 KB | .pdf | 2024-02-23T12:23:54.000Z |
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
+| content/coplacana | 4 KB |  | 2025-12-16T22:46:45.000Z |
+| content/coplacana/coplacana-cover-rcs.png | 553.44 KB | .png | 2025-12-16T22:46:45.000Z |
+| content/coplacana/coplacana-logo-rcs.png | 35.08 KB | .png | 2025-12-16T22:46:45.000Z |
 | content/corona600ml.png | 385.2 KB | .png | 2025-11-13T20:48:36.000Z |
 | content/csdwnt.png | 2.35 MB | .png | 2024-06-15T22:58:42.000Z |
 | content/d296f3a7-a786-49d5-bd26-418122bba852r.mp4 | 1.39 MB | .mp4 | 2022-09-03T19:03:30.000Z |
@@ -259,13 +264,15 @@
 | content/fundo_transparente_letras_brancas_apenas_nome_e_slogan.png | 95.47 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas.png | 102.95 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas_apenas_nome_e_slogan.png | 121.08 KB | .png | 2024-02-27T13:58:16.000Z |
-| content/gazin | 4 KB |  | 2025-12-02T13:22:38.000Z |
+| content/gazin | 4 KB |  | 2025-12-16T18:59:24.000Z |
 | content/gazin/Ofertas_Dia_Unico_P7_12x_AC_25-07-25.pdf | 6.02 MB | .pdf | 2025-07-25T13:00:52.000Z |
 | content/gazin/Ofertas_Dia_Unico_P7_12x_AM-PA_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T13:00:52.000Z |
 | content/gazin/Ofertas_Dia_Unico_P7_12x_MT_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T13:00:52.000Z |
 | content/gazin/Ofertas_Dia_Unico_P7_12x_PR-MS-GO_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T13:00:52.000Z |
 | content/gazin/Ofertas_Dia_Unico_P7_12x_RO_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T12:56:02.000Z |
 | content/gazin/Termo de Autorização Gazinbank.pdf | 203.09 KB | .pdf | 2025-05-15T17:55:58.000Z |
+| content/gazin/gazin-cover-rcs.png | 335.78 KB | .png | 2025-12-16T18:59:24.000Z |
+| content/gazin/gazin-logo-rcs.png | 11.21 KB | .png | 2025-12-16T18:59:24.000Z |
 | content/gazin/gazin.mp4 | 9.6 MB | .mp4 | 2025-12-02T13:22:38.000Z |
 | content/gazin/gazinbank-carrossel-antecipacao-recebiveis-v2.jpeg | 137.65 KB | .jpeg | 2025-04-08T18:48:51.000Z |
 | content/gazin/gazinbank-carrossel-antecipacao-recebiveis.png | 231.31 KB | .png | 2025-04-03T18:50:07.000Z |
