@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 543
-  - ⚖️ Tamanho: 1022.6 MB
+  - 📁 Arquivos: 551
+  - ⚖️ Tamanho: 1 GB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -206,8 +206,10 @@
 | content/coplacampos/MAPA.pdf | 989.64 KB | .pdf | 2024-02-23T12:23:54.000Z |
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
-| content/coplacana | 4 KB |  | 2025-12-16T22:46:45.000Z |
+| content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
+| content/coplacana/coplacana-cover-rcs-nova.png | 613.58 KB | .png | 2025-12-17T12:53:53.000Z |
 | content/coplacana/coplacana-cover-rcs.png | 553.44 KB | .png | 2025-12-16T22:46:45.000Z |
+| content/coplacana/coplacana-logo-rcs-nova.png | 613.58 KB | .png | 2025-12-17T12:52:28.000Z |
 | content/coplacana/coplacana-logo-rcs.png | 35.08 KB | .png | 2025-12-16T22:46:45.000Z |
 | content/corona600ml.png | 385.2 KB | .png | 2025-11-13T20:48:36.000Z |
 | content/csdwnt.png | 2.35 MB | .png | 2024-06-15T22:58:42.000Z |
@@ -506,6 +508,9 @@
 | content/pixbet/Validação de e-mail PIXBET.mp4 | 18.45 MB | .mp4 | 2024-10-28T22:38:45.000Z |
 | content/plugins_file-upload_video.mp4 | 5 MB | .mp4 | 2024-08-27T02:28:51.000Z |
 | content/promuscular3.jpg | 1.09 MB | .jpg | 2024-05-16T01:28:25.000Z |
+| content/rcs-dwnt | 4 KB |  | 2025-12-17T11:50:25.000Z |
+| content/rcs-dwnt/dawntech-cover-rcs.png | 320.02 KB | .png | 2025-12-17T11:50:25.000Z |
+| content/rcs-dwnt/dawntech-logo-rcs.png | 10.44 KB | .png | 2025-12-17T11:50:25.000Z |
 | content/slshop | 4 KB |  | 2024-09-27T18:43:28.000Z |
 | content/slshop/avatar-feminino.png | 1.88 MB | .png | 2024-09-27T18:43:28.000Z |
 | content/slshop/avatar-masculino.png | 1.8 MB | .png | 2024-09-27T18:43:28.000Z |
@@ -534,6 +539,9 @@
 | content/vtexcheckout_ptbr.png | 132.15 KB | .png | 2024-01-07T23:39:22.000Z |
 | content/wake_1.png | 125.31 KB | .png | 2024-03-19T12:59:47.000Z |
 | content/wake_2.png | 109.16 KB | .png | 2024-03-19T12:59:47.000Z |
+| content/wellhub | 4 KB |  | 2025-12-17T11:17:14.000Z |
+| content/wellhub/wellhub-cover-rcs.png | 602.96 KB | .png | 2025-12-17T11:17:14.000Z |
+| content/wellhub/wellhub-logo-rcs.png | 23.39 KB | .png | 2025-12-17T11:17:14.000Z |
 | content/wevo_capa_en.png | 280.5 KB | .png | 2023-12-17T21:57:54.000Z |
 | content/wevo_capa_es.png | 280.93 KB | .png | 2023-12-17T21:57:54.000Z |
 | content/wevo_capa_ptbr.png | 280.95 KB | .png | 2023-12-17T21:57:54.000Z |
