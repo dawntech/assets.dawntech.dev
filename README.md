@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 551
+  - 📁 Arquivos: 554
   - ⚖️ Tamanho: 1 GB
     
   | File | Size | Ext | Mtime |
@@ -451,6 +451,9 @@
 | content/neon/inss_complementacao_salarial.pdf | 59.83 KB | .pdf | 2025-10-09T15:25:23.000Z |
 | content/neon/inss_retorno_ao_trabalho.pdf | 46.37 KB | .pdf | 2025-10-09T15:25:23.000Z |
 | content/neon/passo_a_passo_homologacao_medei.pdf | 414.68 KB | .pdf | 2025-10-15T03:23:12.000Z |
+| content/nestle-promo | 4 KB |  | 2025-12-22T17:50:51.000Z |
+| content/nestle-promo/participating.jpeg | 122.86 KB | .jpeg | 2025-12-22T17:50:51.000Z |
+| content/nestle-promo/saudacao-promo.jpeg | 1.5 MB | .jpeg | 2025-12-22T17:49:42.000Z |
 | content/nestle_receitas | 4 KB |  | 2025-11-28T12:50:43.000Z |
 | content/nestle_receitas/CLASSICO.mp4 | 6.43 MB | .mp4 | 2025-11-28T12:46:49.000Z |
 | content/nestle_receitas/CRIATIVO.mp4 | 10.71 MB | .mp4 | 2025-11-28T12:50:09.000Z |
