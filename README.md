@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 554
+  - 📁 Arquivos: 558
   - ⚖️ Tamanho: 1 GB
     
   | File | Size | Ext | Mtime |
@@ -104,7 +104,7 @@
 | content/barcelos/gazin-cover-rcs.png | 335.78 KB | .png | 2025-12-16T18:57:05.000Z |
 | content/barcelos/gazin-logo-rcs.png | 11.21 KB | .png | 2025-12-16T18:57:05.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
-| content/bees | 4 KB |  | 2025-12-15T17:35:58.000Z |
+| content/bees | 4 KB |  | 2025-12-24T02:27:51.000Z |
 | content/bees/01-2711.png | 864.68 KB | .png | 2025-11-27T18:03:37.000Z |
 | content/bees/01_intro.png | 264.41 KB | .png | 2025-11-19T21:58:53.000Z |
 | content/bees/02-2711.png | 860.2 KB | .png | 2025-11-27T18:03:37.000Z |
@@ -120,6 +120,10 @@
 | content/bees/16dez_wpp_score-5_carrossel_02.jpg | 421.48 KB | .jpg | 2025-12-15T17:35:58.000Z |
 | content/bees/16dez_wpp_score-5_carrossel_03.jpg | 425.92 KB | .jpg | 2025-12-15T17:35:58.000Z |
 | content/bees/16dez_wpp_score-5_carrossel_04.jpg | 443.37 KB | .jpg | 2025-12-15T17:35:58.000Z |
+| content/bees/2025-dez-natal-1.jpg | 317.29 KB | .jpg | 2025-12-24T02:27:51.000Z |
+| content/bees/2025-dez-natal-2.jpg | 349.73 KB | .jpg | 2025-12-24T02:27:51.000Z |
+| content/bees/2025-dez-natal-3.jpg | 386.72 KB | .jpg | 2025-12-24T02:27:51.000Z |
+| content/bees/2025-dez-natal-4.jpg | 421.88 KB | .jpg | 2025-12-24T02:27:51.000Z |
 | content/bees/bees-convite.png | 305.59 KB | .png | 2025-11-14T13:40:23.000Z |
 | content/bees/pontos_dobro.mp4 | 1.17 MB | .mp4 | 2025-11-23T18:44:55.000Z |
 | content/bees/text.txt | 1 B | .txt | 2025-11-12T15:40:18.000Z |
