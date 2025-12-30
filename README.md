@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 562
+  - 📁 Arquivos: 566
   - ⚖️ Tamanho: 1.01 GB
     
   | File | Size | Ext | Mtime |
@@ -104,7 +104,7 @@
 | content/barcelos/gazin-cover-rcs.png | 335.78 KB | .png | 2025-12-16T18:57:05.000Z |
 | content/barcelos/gazin-logo-rcs.png | 11.21 KB | .png | 2025-12-16T18:57:05.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
-| content/bees | 4 KB |  | 2025-12-24T14:06:06.000Z |
+| content/bees | 4 KB |  | 2025-12-29T18:44:19.000Z |
 | content/bees/01-2711.png | 864.68 KB | .png | 2025-11-27T18:03:37.000Z |
 | content/bees/01_intro.png | 264.41 KB | .png | 2025-11-19T21:58:53.000Z |
 | content/bees/02-2711.png | 860.2 KB | .png | 2025-11-27T18:03:37.000Z |
@@ -128,6 +128,10 @@
 | content/bees/2025-dez-natal-3.jpg | 386.72 KB | .jpg | 2025-12-24T02:27:51.000Z |
 | content/bees/2025-dez-natal-4.PNG | 1.21 MB | .PNG | 2025-12-24T14:06:06.000Z |
 | content/bees/2025-dez-natal-4.jpg | 421.88 KB | .jpg | 2025-12-24T02:27:51.000Z |
+| content/bees/anonovo-score-5-carrossel-step1.png | 572.13 KB | .png | 2025-12-29T18:44:19.000Z |
+| content/bees/anonovo-score-5-carrossel-step2.png | 704.26 KB | .png | 2025-12-29T18:44:19.000Z |
+| content/bees/anonovo-score-5-carrossel-step3.png | 779.63 KB | .png | 2025-12-29T18:44:19.000Z |
+| content/bees/anonovo-score-5-carrossel-step4.png | 803.7 KB | .png | 2025-12-29T18:44:19.000Z |
 | content/bees/bees-convite.png | 305.59 KB | .png | 2025-11-14T13:40:23.000Z |
 | content/bees/pontos_dobro.mp4 | 1.17 MB | .mp4 | 2025-11-23T18:44:55.000Z |
 | content/bees/text.txt | 1 B | .txt | 2025-11-12T15:40:18.000Z |
