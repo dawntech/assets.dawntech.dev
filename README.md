@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 567
-  - ⚖️ Tamanho: 1.01 GB
+  - 📁 Arquivos: 575
+  - ⚖️ Tamanho: 1.02 GB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -204,6 +204,8 @@
 | content/coplacampos/1.png | 923.3 KB | .png | 2024-02-22T23:27:06.000Z |
 | content/coplacampos/10.png | 896.19 KB | .png | 2024-02-22T23:27:06.000Z |
 | content/coplacampos/2.png | 978.77 KB | .png | 2024-02-22T23:27:06.000Z |
+| content/coplacampos/2026 | 4 KB |  | 2026-01-08T19:25:14.000Z |
+| content/coplacampos/2026/*.txt | 1 B | .txt | 2026-01-08T19:25:14.000Z |
 | content/coplacampos/3.png | 977.58 KB | .png | 2024-02-22T23:27:06.000Z |
 | content/coplacampos/300x300-pixels.png | 106 B | .png | 2024-03-05T20:34:11.000Z |
 | content/coplacampos/4.png | 939.66 KB | .png | 2024-02-22T23:27:06.000Z |
@@ -219,6 +221,12 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-01-09T03:33:37.202Z |
+| content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-08T19:27:06.000Z |
+| content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
+| content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
+| content/coplacana/coplacampo/2026/Inovacao.jpg | 1.03 MB | .jpg | 2026-01-08T19:27:06.000Z |
+| content/coplacana/coplacampo/2026/Pecuaria.jpg | 697.47 KB | .jpg | 2026-01-08T19:27:06.000Z |
 | content/coplacana/coplacana-cover-rcs-nova.png | 613.58 KB | .png | 2025-12-17T12:53:53.000Z |
 | content/coplacana/coplacana-cover-rcs.png | 553.44 KB | .png | 2025-12-16T22:46:45.000Z |
 | content/coplacana/coplacana-logo-rcs-nova.png | 613.58 KB | .png | 2025-12-17T12:52:28.000Z |
