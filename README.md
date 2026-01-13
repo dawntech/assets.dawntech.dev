@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 576
+  - 📁 Arquivos: 578
   - ⚖️ Tamanho: 1.02 GB
     
   | File | Size | Ext | Mtime |
@@ -221,7 +221,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-01-12T03:35:36.155Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-01-13T03:33:02.057Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -233,6 +233,7 @@
 | content/coplacana/coplacana-logo-rcs-nova.png | 613.58 KB | .png | 2025-12-17T12:52:28.000Z |
 | content/coplacana/coplacana-logo-rcs.png | 35.08 KB | .png | 2025-12-16T22:46:45.000Z |
 | content/corona600ml.png | 385.2 KB | .png | 2025-11-13T20:48:36.000Z |
+| content/cortex_logo_gray.png | 77.23 KB | .png | 2026-01-13T01:09:30.000Z |
 | content/csdwnt.png | 2.35 MB | .png | 2024-06-15T22:58:42.000Z |
 | content/d296f3a7-a786-49d5-bd26-418122bba852r.mp4 | 1.39 MB | .mp4 | 2022-09-03T19:03:30.000Z |
 | content/d595467c-dad3-4112-8238-b9e111c2f097.jpeg | 65.83 KB | .jpeg | 2023-03-24T18:51:12.000Z |
@@ -564,7 +565,8 @@
 | content/vtexcheckout_ptbr.png | 132.15 KB | .png | 2024-01-07T23:39:22.000Z |
 | content/wake_1.png | 125.31 KB | .png | 2024-03-19T12:59:47.000Z |
 | content/wake_2.png | 109.16 KB | .png | 2024-03-19T12:59:47.000Z |
-| content/wellhub | 4 KB |  | 2025-12-17T11:17:14.000Z |
+| content/wellhub | 4 KB |  | 2026-01-12T17:49:11.000Z |
+| content/wellhub/rcs-active-message.png | 3.76 MB | .png | 2026-01-12T17:48:34.000Z |
 | content/wellhub/wellhub-cover-rcs.png | 602.96 KB | .png | 2025-12-17T11:17:14.000Z |
 | content/wellhub/wellhub-logo-rcs.png | 23.39 KB | .png | 2025-12-17T11:17:14.000Z |
 | content/wevo_capa_en.png | 280.5 KB | .png | 2023-12-17T21:57:54.000Z |
