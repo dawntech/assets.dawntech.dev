@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 578
+  - 📁 Arquivos: 581
   - ⚖️ Tamanho: 1.02 GB
     
   | File | Size | Ext | Mtime |
@@ -221,7 +221,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-01-14T03:35:27.799Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-01-15T03:34:08.007Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -477,6 +477,9 @@
 | content/nestle-promo | 4 KB |  | 2025-12-22T17:50:51.000Z |
 | content/nestle-promo/participating.jpeg | 122.86 KB | .jpeg | 2025-12-22T17:50:51.000Z |
 | content/nestle-promo/saudacao-promo.jpeg | 1.5 MB | .jpeg | 2025-12-22T17:49:42.000Z |
+| content/nestle-saq | 4 KB |  | 2026-01-14T16:10:35.000Z |
+| content/nestle-saq/produtos1.jpeg | 56.51 KB | .jpeg | 2026-01-14T16:10:35.000Z |
+| content/nestle-saq/produtos2.jpeg | 103.48 KB | .jpeg | 2026-01-14T16:10:35.000Z |
 | content/nestle_receitas | 4 KB |  | 2025-11-28T12:50:43.000Z |
 | content/nestle_receitas/CLASSICO.mp4 | 6.43 MB | .mp4 | 2025-11-28T12:46:49.000Z |
 | content/nestle_receitas/CRIATIVO.mp4 | 10.71 MB | .mp4 | 2025-11-28T12:50:09.000Z |
