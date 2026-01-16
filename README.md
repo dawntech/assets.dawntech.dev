@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 581
+  - 📁 Arquivos: 587
   - ⚖️ Tamanho: 1.02 GB
     
   | File | Size | Ext | Mtime |
@@ -221,7 +221,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-01-15T03:34:08.007Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-01-16T03:33:21.718Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -304,6 +304,12 @@
 | content/gazin/gazinbank-carrossel-capital-de-giro.png | 332.66 KB | .png | 2025-04-02T17:44:54.000Z |
 | content/gazin/gazinbank-carrossel-conta-pf-v2.jpeg | 119.21 KB | .jpeg | 2025-04-08T18:48:51.000Z |
 | content/gazin/gazinbank-carrossel-conta-pf.png | 217.76 KB | .png | 2025-04-03T18:50:07.000Z |
+| content/gazin/rcs | 4 KB |  | 2026-01-15T23:59:13.000Z |
+| content/gazin/rcs/*.txt | 2 B | .txt | 2026-01-15T23:58:53.000Z |
+| content/gazin/rcs/atacado.png | 149.77 KB | .png | 2026-01-15T23:59:13.000Z |
+| content/gazin/rcs/consorcio.png | 168.59 KB | .png | 2026-01-15T23:59:13.000Z |
+| content/gazin/rcs/menu_principal.png | 118.8 KB | .png | 2026-01-15T23:59:13.000Z |
+| content/gazin/rcs/seguros.png | 111.68 KB | .png | 2026-01-15T23:59:13.000Z |
 | content/gazin/teste.txt | 6 B | .txt | 2025-04-02T17:43:49.000Z |
 | content/gazin-divida-quitada.jpeg | 206.97 KB | .jpeg | 2025-06-11T14:53:09.000Z |
 | content/h-and-m | 4 KB |  | 2024-10-31T13:13:51.000Z |
