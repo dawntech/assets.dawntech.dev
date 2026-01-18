@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 587
-  - ⚖️ Tamanho: 1.02 GB
+  - 📁 Arquivos: 615
+  - ⚖️ Tamanho: 1.04 GB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -221,7 +221,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-01-17T03:31:28.288Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-01-18T03:34:22.180Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -546,6 +546,34 @@
 | content/rcs-dwnt | 4 KB |  | 2025-12-17T11:50:25.000Z |
 | content/rcs-dwnt/dawntech-cover-rcs.png | 320.02 KB | .png | 2025-12-17T11:50:25.000Z |
 | content/rcs-dwnt/dawntech-logo-rcs.png | 10.44 KB | .png | 2025-12-17T11:50:25.000Z |
+| content/sba | 4 KB |  | 2026-01-18T00:07:21.000Z |
+| content/sba/2020_Q11.png | 192.97 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2020_Q13.png | 426.69 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2020_Q14.png | 465.36 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2020_Q16.png | 277.21 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2020_Q2.png | 166.91 KB | .png | 2026-01-17T23:12:17.000Z |
+| content/sba/2020_Q20.png | 308.66 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2020_Q34.png | 444.68 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2021_Q14.png | 285.11 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2021_Q17.png | 82.13 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2021_Q34.png | 52.86 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2021_Q7.png | 163.04 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2022_Q10.png | 43.16 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2022_Q16.png | 96.56 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2022_Q23.png | 27.27 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2023_Q14.png | 40.37 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2023_Q18.png | 89.46 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2023_Q23.png | 169.66 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2023_Q25.png | 144.41 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2023_Q34.png | 30.82 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2023_Q36.png | 189.41 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2023_Q5.png | 53.85 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/2025_Q2.png | 166.91 KB | .png | 2026-01-17T22:10:52.000Z |
+| content/sba/me1_prova_2020.pdf | 5.46 MB | .pdf | 2026-01-17T23:57:42.000Z |
+| content/sba/me1_prova_2020_gabarito.pdf | 5.61 MB | .pdf | 2026-01-18T00:07:21.000Z |
+| content/sba/me1_prova_2021.pdf | 2.34 MB | .pdf | 2026-01-17T23:57:42.000Z |
+| content/sba/me1_prova_2022.pdf | 533.15 KB | .pdf | 2026-01-17T23:57:42.000Z |
+| content/sba/me1_prova_2023.pdf | 550.62 KB | .pdf | 2026-01-17T23:57:42.000Z |
 | content/slshop | 4 KB |  | 2024-09-27T18:43:28.000Z |
 | content/slshop/avatar-feminino.png | 1.88 MB | .png | 2024-09-27T18:43:28.000Z |
 | content/slshop/avatar-masculino.png | 1.8 MB | .png | 2024-09-27T18:43:28.000Z |
