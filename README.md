@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 617
+  - 📁 Arquivos: 618
   - ⚖️ Tamanho: 1.04 GB
     
   | File | Size | Ext | Mtime |
@@ -221,7 +221,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-01-31T03:46:00.749Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-02-01T03:58:12.618Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -574,6 +574,7 @@
 | content/sba/me1_prova_2021.pdf | 2.34 MB | .pdf | 2026-01-17T23:57:42.000Z |
 | content/sba/me1_prova_2022.pdf | 533.15 KB | .pdf | 2026-01-17T23:57:42.000Z |
 | content/sba/me1_prova_2023.pdf | 550.62 KB | .pdf | 2026-01-17T23:57:42.000Z |
+| content/sbd_runs.png | 256.8 KB | .png | 2026-01-31T21:28:40.000Z |
 | content/sbdposvendas.png | 35.03 KB | .png | 2026-01-30T19:31:23.000Z |
 | content/slshop | 4 KB |  | 2024-09-27T18:43:28.000Z |
 | content/slshop/avatar-feminino.png | 1.88 MB | .png | 2024-09-27T18:43:28.000Z |
