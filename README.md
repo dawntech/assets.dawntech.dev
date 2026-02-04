@@ -221,7 +221,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-02-03T03:49:01.279Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-02-04T03:48:18.685Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
