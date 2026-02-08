@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 618
+  - 📁 Arquivos: 806
   - ⚖️ Tamanho: 1.04 GB
     
   | File | Size | Ext | Mtime |
@@ -221,7 +221,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-02-07T03:46:50.096Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-02-08T04:00:31.862Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -583,6 +583,194 @@
 | content/sos/Termos-de-Uso-Doacoes-em-um-Blip-SOS-RS-21.05.24.pdf | 220.02 KB | .pdf | 2024-05-24T19:35:35.000Z |
 | content/sos/main.txt | 1 B | .txt | 2024-05-24T19:34:28.000Z |
 | content/testeativosaquamar.JPG | 1.06 MB | .JPG | 2024-02-26T15:02:48.000Z |
+| content/twenty-images-lm | 4 KB |  | 2026-02-08T04:00:33.592Z |
+| content/twenty-images-lm/images | 4 KB |  | 2026-02-08T04:00:33.606Z |
+| content/twenty-images-lm/images/icons | 4 KB |  | 2026-02-08T04:00:33.596Z |
+| content/twenty-images-lm/images/icons/android | 4 KB |  | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/android/android-launchericon-144-144.png | 6.43 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/android/android-launchericon-192-192.png | 9.6 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/android/android-launchericon-48-48.png | 1.78 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/android/android-launchericon-512-512.png | 47.7 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/android/android-launchericon-72-72.png | 2.67 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/android/android-launchericon-96-96.png | 3.94 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios | 4 KB |  | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/100.png | 3.87 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/1024.png | 149.32 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/114.png | 4.87 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/120.png | 5.07 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/128.png | 5.6 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/144.png | 6.43 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/152.png | 6.54 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/16.png | 610 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/167.png | 7.77 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/180.png | 8.55 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/192.png | 9.6 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/20.png | 735 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/256.png | 14.2 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/29.png | 1.09 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/32.png | 1.16 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/40.png | 1.44 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/50.png | 1.88 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/512.png | 47.7 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/57.png | 2.15 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/58.png | 2.08 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/60.png | 2.21 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/64.png | 2.31 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/72.png | 2.67 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/76.png | 2.86 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/80.png | 3.02 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/ios/87.png | 3.36 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11 | 4 KB |  | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/LargeTile.scale-100.png | 19.57 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/LargeTile.scale-125.png | 29.81 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/LargeTile.scale-150.png | 40.4 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/LargeTile.scale-200.png | 64.7 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/LargeTile.scale-400.png | 177.62 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/SmallTile.scale-100.png | 2.5 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/SmallTile.scale-125.png | 3.48 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/SmallTile.scale-150.png | 4.29 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/SmallTile.scale-200.png | 6.39 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/SmallTile.scale-400.png | 17 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/SplashScreen.scale-100.png | 20.05 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/SplashScreen.scale-125.png | 32.22 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/SplashScreen.scale-150.png | 43.61 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/SplashScreen.scale-200.png | 69.85 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/SplashScreen.scale-400.png | 203.68 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square150x150Logo.scale-100.png | 5.61 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square150x150Logo.scale-125.png | 8.05 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square150x150Logo.scale-150.png | 11.2 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square150x150Logo.scale-200.png | 17.92 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square150x150Logo.scale-400.png | 61.33 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-16.png | 610 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-20.png | 735 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-24.png | 822 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-256.png | 14.2 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-30.png | 1.11 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-32.png | 1.16 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-36.png | 1.24 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-40.png | 1.44 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-44.png | 1.62 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-48.png | 1.78 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-60.png | 2.21 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-64.png | 2.31 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-72.png | 2.67 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-80.png | 3.02 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-96.png | 3.94 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-16.png | 610 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-20.png | 735 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-24.png | 822 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-256.png | 14.2 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-30.png | 1.11 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-32.png | 1.16 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-36.png | 1.24 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-40.png | 1.44 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-44.png | 1.62 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-48.png | 1.78 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-60.png | 2.21 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-64.png | 2.31 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-72.png | 2.67 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-80.png | 3.02 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.altform-unplated_targetsize-96.png | 3.94 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.scale-100.png | 1.62 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.scale-125.png | 2.11 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.scale-150.png | 2.51 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.scale-200.png | 3.43 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.scale-400.png | 8.19 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-16.png | 610 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-20.png | 735 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-24.png | 822 B | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-256.png | 14.2 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-30.png | 1.11 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-32.png | 1.16 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-36.png | 1.24 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-40.png | 1.44 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-44.png | 1.62 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-48.png | 1.78 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-60.png | 2.21 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-64.png | 2.31 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-72.png | 2.67 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-80.png | 3.02 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Square44x44Logo.targetsize-96.png | 3.94 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/StoreLogo.scale-100.png | 1.88 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/StoreLogo.scale-125.png | 2.3 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/StoreLogo.scale-150.png | 2.53 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/StoreLogo.scale-200.png | 3.87 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/StoreLogo.scale-400.png | 10.04 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Wide310x150Logo.scale-100.png | 6.25 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Wide310x150Logo.scale-125.png | 9.19 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Wide310x150Logo.scale-150.png | 12.49 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Wide310x150Logo.scale-200.png | 20.05 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/icons/windows11/Wide310x150Logo.scale-400.png | 69.85 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations | 4 KB |  | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/airtable-logo.png | 11.84 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/cal-logo.png | 2.56 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/chrome-icon.svg | 1.4 KB | .svg | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/github-logo.png | 6.24 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/link-apps.svg | 2.25 KB | .svg | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/mailchimp-logo.png | 4.05 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/postgresql-logo.png | 69.22 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/slack-logo.png | 14.33 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/stripe-logo.png | 2.68 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/tally-logo.png | 3.81 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/twenty-logo.svg | 5.39 KB | .svg | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/integrations/windmill-logo.png | 7.77 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders | 4 KB |  | 2026-02-08T04:00:33.609Z |
+| content/twenty-images-lm/images/placeholders/background | 4 KB |  | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/404_bg.png | 7.53 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/500_bg.png | 7.37 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/empty_functions_bg.png | 4.41 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/empty_inbox_bg.png | 5.86 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/empty_timeline_bg.png | 7.09 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/error_index_bg.png | 5.11 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/loading_accounts_bg.png | 6.46 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/loading_messages_bg.png | 6.08 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/no_deleted_record_bg.png | 2.85 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/no_file_bg.png | 5.62 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/no_match_record_bg.png | 6.1 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/no_note_bg.png | 5.96 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/no_record_bg.png | 5.36 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/background/no_task_bg.png | 5.56 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background | 4 KB |  | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/404_bg.png | 6.71 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/500_bg.png | 6.51 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/empty_functions_bg.png | 4.14 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/empty_inbox_bg.png | 5.71 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/empty_timeline_bg.png | 7.01 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/error_index_bg.png | 4.92 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/no_deleted_record_bg.png | 2.81 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/no_file_bg.png | 5.33 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/no_match_record_bg.png | 2.93 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/no_note_bg.png | 5.51 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/no_record_bg.png | 5 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-background/no_task_bg.png | 5.21 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image | 4 KB |  | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/404.png | 17.3 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/500.png | 16.34 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/empty_functions.png | 16.7 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/empty_inbox.png | 11.73 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/empty_timeline.png | 22.73 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/error_index.png | 11.22 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/no_deleted_record.png | 7.41 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/no_file.png | 17.17 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/no_match_record.png | 16.41 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/no_note.png | 15.75 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/no_record.png | 12.04 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/dark-moving-image/no_task.png | 11.68 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image | 4 KB |  | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/404.png | 17.28 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/500.png | 16.29 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/empty_functions.png | 17 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/empty_inbox.png | 11.83 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/empty_timeline.png | 22.34 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/error_index.png | 11.27 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/loading_accounts.png | 10.71 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/loading_messages.png | 4.27 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/no_deleted_record.png | 7.44 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/no_file.png | 17.12 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/no_match_record.png | 16.21 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/no_note.png | 15.67 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/no_record.png | 11.88 KB | .png | 2026-02-07T22:54:49.000Z |
+| content/twenty-images-lm/images/placeholders/moving-image/no_task.png | 11.63 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/ultragaz | 4 KB |  | 2025-07-16T21:31:58.000Z |
 | content/ultragaz/p13.png | 129.69 KB | .png | 2025-07-16T21:31:58.000Z |
 | content/ultragaz/p20.png | 57.75 KB | .png | 2025-07-16T21:31:58.000Z |
