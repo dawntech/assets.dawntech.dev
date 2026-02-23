@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 807
-  - ⚖️ Tamanho: 1.04 GB
+  - 📁 Arquivos: 814
+  - ⚖️ Tamanho: 1.05 GB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -204,8 +204,15 @@
 | content/coplacampos/1.png | 923.3 KB | .png | 2024-02-22T23:27:06.000Z |
 | content/coplacampos/10.png | 896.19 KB | .png | 2024-02-22T23:27:06.000Z |
 | content/coplacampos/2.png | 978.77 KB | .png | 2024-02-22T23:27:06.000Z |
-| content/coplacampos/2026 | 4 KB |  | 2026-02-19T18:29:52.000Z |
+| content/coplacampos/2026 | 4 KB |  | 2026-02-22T22:29:51.000Z |
 | content/coplacampos/2026/*.txt | 1 B | .txt | 2026-01-08T19:25:14.000Z |
+| content/coplacampos/2026/coplacampo-2026-1.jpg | 1.18 MB | .jpg | 2026-02-22T22:29:51.000Z |
+| content/coplacampos/2026/coplacampo-2026-2.jpg | 1.36 MB | .jpg | 2026-02-22T22:29:51.000Z |
+| content/coplacampos/2026/coplacampo-2026-3.jpg | 1.3 MB | .jpg | 2026-02-22T22:29:51.000Z |
+| content/coplacampos/2026/coplacampo-2026-4.jpg | 1.3 MB | .jpg | 2026-02-22T22:29:51.000Z |
+| content/coplacampos/2026/coplacampo-2026-5.jpg | 1.17 MB | .jpg | 2026-02-22T22:29:51.000Z |
+| content/coplacampos/2026/coplacampo-2026-6.jpg | 1.44 MB | .jpg | 2026-02-22T22:29:51.000Z |
+| content/coplacampos/2026/coplacampo-2026-7.jpg | 1.25 MB | .jpg | 2026-02-22T22:29:51.000Z |
 | content/coplacampos/2026/sicoob-cocre.png | 513.62 KB | .png | 2026-02-19T18:29:52.000Z |
 | content/coplacampos/3.png | 977.58 KB | .png | 2024-02-22T23:27:06.000Z |
 | content/coplacampos/300x300-pixels.png | 106 B | .png | 2024-03-05T20:34:11.000Z |
@@ -222,7 +229,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-02-22T03:49:05.591Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-02-23T03:52:33.032Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -584,9 +591,9 @@
 | content/sos/Termos-de-Uso-Doacoes-em-um-Blip-SOS-RS-21.05.24.pdf | 220.02 KB | .pdf | 2024-05-24T19:35:35.000Z |
 | content/sos/main.txt | 1 B | .txt | 2024-05-24T19:34:28.000Z |
 | content/testeativosaquamar.JPG | 1.06 MB | .JPG | 2024-02-26T15:02:48.000Z |
-| content/twenty-images-lm | 4 KB |  | 2026-02-22T03:49:07.313Z |
-| content/twenty-images-lm/images | 4 KB |  | 2026-02-22T03:49:07.327Z |
-| content/twenty-images-lm/images/icons | 4 KB |  | 2026-02-22T03:49:07.316Z |
+| content/twenty-images-lm | 4 KB |  | 2026-02-23T03:52:34.781Z |
+| content/twenty-images-lm/images | 4 KB |  | 2026-02-23T03:52:34.794Z |
+| content/twenty-images-lm/images/icons | 4 KB |  | 2026-02-23T03:52:34.784Z |
 | content/twenty-images-lm/images/icons/android | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-144-144.png | 6.43 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-192-192.png | 9.6 KB | .png | 2026-02-07T22:54:49.000Z |
@@ -715,7 +722,7 @@
 | content/twenty-images-lm/images/integrations/tally-logo.png | 3.81 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/twenty-logo.svg | 5.39 KB | .svg | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/windmill-logo.png | 7.77 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/placeholders | 4 KB |  | 2026-02-22T03:49:07.330Z |
+| content/twenty-images-lm/images/placeholders | 4 KB |  | 2026-02-23T03:52:34.797Z |
 | content/twenty-images-lm/images/placeholders/background | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/404_bg.png | 7.53 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/500_bg.png | 7.37 KB | .png | 2026-02-07T22:54:49.000Z |
