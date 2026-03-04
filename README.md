@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 816
+  - 📁 Arquivos: 825
   - ⚖️ Tamanho: 1.05 GB
     
   | File | Size | Ext | Mtime |
@@ -229,7 +229,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-03-03T03:48:42.043Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-03-04T03:47:25.499Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -592,10 +592,19 @@
 | content/sos | 4 KB |  | 2024-05-24T19:35:35.000Z |
 | content/sos/Termos-de-Uso-Doacoes-em-um-Blip-SOS-RS-21.05.24.pdf | 220.02 KB | .pdf | 2024-05-24T19:35:35.000Z |
 | content/sos/main.txt | 1 B | .txt | 2024-05-24T19:34:28.000Z |
+| content/squads | 4 KB |  | 2026-03-04T02:42:28.000Z |
+| content/squads/andromeda-label.png | 51.84 KB | .png | 2026-03-04T02:42:28.000Z |
+| content/squads/andromeda.png | 58.01 KB | .png | 2026-03-04T02:42:28.000Z |
+| content/squads/centaurus-label.png | 62.71 KB | .png | 2026-03-04T02:42:28.000Z |
+| content/squads/centaurus.png | 90.23 KB | .png | 2026-03-04T02:42:28.000Z |
+| content/squads/phoenix-label.png | 53.18 KB | .png | 2026-03-04T02:42:28.000Z |
+| content/squads/phoenix.png | 52.83 KB | .png | 2026-03-04T02:42:28.000Z |
+| content/squads/quasar-label.png | 52.18 KB | .png | 2026-03-04T02:42:28.000Z |
+| content/squads/quasar.png | 45.57 KB | .png | 2026-03-04T02:42:28.000Z |
 | content/testeativosaquamar.JPG | 1.06 MB | .JPG | 2024-02-26T15:02:48.000Z |
-| content/twenty-images-lm | 4 KB |  | 2026-03-03T03:48:43.811Z |
-| content/twenty-images-lm/images | 4 KB |  | 2026-03-03T03:48:43.822Z |
-| content/twenty-images-lm/images/icons | 4 KB |  | 2026-03-03T03:48:43.813Z |
+| content/twenty-images-lm | 4 KB |  | 2026-03-04T03:47:27.250Z |
+| content/twenty-images-lm/images | 4 KB |  | 2026-03-04T03:47:27.261Z |
+| content/twenty-images-lm/images/icons | 4 KB |  | 2026-03-04T03:47:27.252Z |
 | content/twenty-images-lm/images/icons/android | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-144-144.png | 6.43 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-192-192.png | 9.6 KB | .png | 2026-02-07T22:54:49.000Z |
@@ -724,7 +733,7 @@
 | content/twenty-images-lm/images/integrations/tally-logo.png | 3.81 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/twenty-logo.svg | 5.39 KB | .svg | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/windmill-logo.png | 7.77 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/placeholders | 4 KB |  | 2026-03-03T03:48:43.825Z |
+| content/twenty-images-lm/images/placeholders | 4 KB |  | 2026-03-04T03:47:27.264Z |
 | content/twenty-images-lm/images/placeholders/background | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/404_bg.png | 7.53 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/500_bg.png | 7.37 KB | .png | 2026-02-07T22:54:49.000Z |
