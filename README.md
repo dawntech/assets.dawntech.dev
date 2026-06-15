@@ -1,8 +1,8 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 830
-  - ⚖️ Tamanho: 1.05 GB
+  - 📁 Arquivos: 833
+  - ⚖️ Tamanho: 1.06 GB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -68,6 +68,9 @@
 | content/Ofertas_Fecha_Mês_15x_PR-MS-MT-GO-TO.pdf | 1.3 MB | .pdf | 2025-01-28T19:27:51.000Z |
 | content/Ofertas_Fecha_Mês_15x_PR-MT-GO.pdf | 1.3 MB | .pdf | 2025-01-28T19:10:45.000Z |
 | content/Ofertas_Fecha_Mês_15x_RO.pdf | 1.31 MB | .pdf | 2025-01-28T19:10:45.000Z |
+| content/RCS | 4 KB |  | 2026-06-15T01:27:26.000Z |
+| content/RCS/capa_dawntech_rcs.png | 316.18 KB | .png | 2026-06-15T01:27:26.000Z |
+| content/RCS/logo_dawntech_rcs.png | 10.74 KB | .png | 2026-06-15T01:27:26.000Z |
 | content/Redutores_IBR_3.1.1.1.1.1.pdf | 1.36 MB | .pdf | 2022-08-05T17:25:09.000Z |
 | content/Redutores_IBR_3.1.1.1.1.2.pdf | 1.46 MB | .pdf | 2022-08-05T17:25:09.000Z |
 | content/Redutores_IBR_3.1.1.2.2.1.pdf | 1.32 MB | .pdf | 2022-08-05T17:25:09.000Z |
@@ -229,7 +232,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-06-14T04:32:53.526Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-06-15T04:34:01.340Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -605,9 +608,9 @@
 | content/squads/quasar-label.png | 52.18 KB | .png | 2026-03-04T02:42:28.000Z |
 | content/squads/quasar.png | 45.57 KB | .png | 2026-03-04T02:42:28.000Z |
 | content/testeativosaquamar.JPG | 1.06 MB | .JPG | 2024-02-26T15:02:48.000Z |
-| content/twenty-images-lm | 4 KB |  | 2026-06-14T04:32:55.062Z |
-| content/twenty-images-lm/images | 4 KB |  | 2026-06-14T04:32:55.075Z |
-| content/twenty-images-lm/images/icons | 4 KB |  | 2026-06-14T04:32:55.065Z |
+| content/twenty-images-lm | 4 KB |  | 2026-06-15T04:34:02.867Z |
+| content/twenty-images-lm/images | 4 KB |  | 2026-06-15T04:34:02.877Z |
+| content/twenty-images-lm/images/icons | 4 KB |  | 2026-06-15T04:34:02.869Z |
 | content/twenty-images-lm/images/icons/android | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-144-144.png | 6.43 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-192-192.png | 9.6 KB | .png | 2026-02-07T22:54:49.000Z |
@@ -736,7 +739,7 @@
 | content/twenty-images-lm/images/integrations/tally-logo.png | 3.81 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/twenty-logo.svg | 5.39 KB | .svg | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/windmill-logo.png | 7.77 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/placeholders | 4 KB |  | 2026-06-14T04:32:55.077Z |
+| content/twenty-images-lm/images/placeholders | 4 KB |  | 2026-06-15T04:34:02.880Z |
 | content/twenty-images-lm/images/placeholders/background | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/404_bg.png | 7.53 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/500_bg.png | 7.37 KB | .png | 2026-02-07T22:54:49.000Z |
