@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 833
+  - 📁 Arquivos: 840
   - ⚖️ Tamanho: 1.06 GB
     
   | File | Size | Ext | Mtime |
@@ -232,7 +232,7 @@
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-08-25T03:45:41.439Z |
+| content/coplacana/coplacampo | 4 KB |  | 2026-08-26T03:51:00.810Z |
 | content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -275,6 +275,13 @@
 | content/email/mensagens-ativas.png | 127.18 KB | .png | 2022-08-10T20:02:16.000Z |
 | content/email/recebidas.png | 128.73 KB | .png | 2022-08-10T20:24:36.000Z |
 | content/email/twitter.png | 4.97 KB | .png | 2022-08-10T20:24:36.000Z |
+| content/embracon | 4 KB |  | 2026-08-25T18:47:07.000Z |
+| content/embracon/automoveis.png | 742.19 KB | .png | 2026-08-25T18:47:07.000Z |
+| content/embracon/imoveis.png | 657.01 KB | .png | 2026-08-25T18:47:07.000Z |
+| content/embracon/moto.png | 1.15 MB | .png | 2026-08-25T18:47:07.000Z |
+| content/embracon/pesados.png | 708.32 KB | .png | 2026-08-25T18:47:07.000Z |
+| content/embracon/servico.png | 859.04 KB | .png | 2026-08-25T18:47:07.000Z |
+| content/embracon/teste.txt | 1 B | .txt | 2026-08-25T18:14:11.000Z |
 | content/engovafter.pdf | 84.65 KB | .pdf | 2024-05-20T11:54:42.000Z |
 | content/eolias | 4 KB |  | 2024-08-31T02:49:46.000Z |
 | content/eolias/combo_bem-estar.png | 625.5 KB | .png | 2024-05-17T13:42:15.000Z |
@@ -608,9 +615,9 @@
 | content/squads/quasar-label.png | 52.18 KB | .png | 2026-03-04T02:42:28.000Z |
 | content/squads/quasar.png | 45.57 KB | .png | 2026-03-04T02:42:28.000Z |
 | content/testeativosaquamar.JPG | 1.06 MB | .JPG | 2024-02-26T15:02:48.000Z |
-| content/twenty-images-lm | 4 KB |  | 2026-08-25T03:45:42.968Z |
-| content/twenty-images-lm/images | 4 KB |  | 2026-08-25T03:45:42.983Z |
-| content/twenty-images-lm/images/icons | 4 KB |  | 2026-08-25T03:45:42.971Z |
+| content/twenty-images-lm | 4 KB |  | 2026-08-26T03:51:02.504Z |
+| content/twenty-images-lm/images | 4 KB |  | 2026-08-26T03:51:02.515Z |
+| content/twenty-images-lm/images/icons | 4 KB |  | 2026-08-26T03:51:02.506Z |
 | content/twenty-images-lm/images/icons/android | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-144-144.png | 6.43 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-192-192.png | 9.6 KB | .png | 2026-02-07T22:54:49.000Z |
@@ -739,7 +746,7 @@
 | content/twenty-images-lm/images/integrations/tally-logo.png | 3.81 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/twenty-logo.svg | 5.39 KB | .svg | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/windmill-logo.png | 7.77 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/placeholders | 4 KB |  | 2026-08-25T03:45:42.986Z |
+| content/twenty-images-lm/images/placeholders | 4 KB |  | 2026-08-26T03:51:02.518Z |
 | content/twenty-images-lm/images/placeholders/background | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/404_bg.png | 7.53 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/500_bg.png | 7.37 KB | .png | 2026-02-07T22:54:49.000Z |
