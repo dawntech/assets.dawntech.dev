@@ -41,7 +41,7 @@ jobs:
           json-indent: '0'
           if-no-files-found: error
           log-files: 'false'
-          output_json: file_info.json
+          output_json: file_info.jsona
       
       - name: Generate Markdown table
         id: create_table
@@ -53,7 +53,7 @@ jobs:
       - name: Output Markdown to Action Summary
         run: |
           echo "
-            ## Dawntech Assets
+            **Dawntech Assets**
 
             - 📁 Arquivos: ${{ steps.analytics_run.outputs.file_count }}
             - ⚖️ Tamanho: ${{ steps.analytics_run.outputs.file_size }}
