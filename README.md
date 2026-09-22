@@ -1,7 +1,7 @@
 
   ## Dawntech Assets
 
-  - 📁 Arquivos: 840
+  - 📁 Arquivos: 775
   - ⚖️ Tamanho: 1.06 GB
     
   | File | Size | Ext | Mtime |
@@ -39,7 +39,6 @@
 | content/Imagem.png | 551.79 KB | .png | 2022-08-16T14:16:15.000Z |
 | content/LM_CAMPANHA_OFERTAS_EXCLUSIVAS.png | 350.76 KB | .png | 2024-09-23T16:54:22.000Z |
 | content/Leroy.png | 2.17 KB | .png | 2023-10-03T02:57:08.000Z |
-| content/Marchand | 4 KB |  | 2025-01-21T20:31:04.000Z |
 | content/Marchand/CLIENTE PAPELERO2.jpg | 526.91 KB | .jpg | 2025-01-21T20:31:04.000Z |
 | content/Marchand/CLIENTE_MAYORISTA.jpg | 1.64 MB | .jpg | 2024-12-18T12:53:09.000Z |
 | content/Marchand/CREDITO-MARCHAND.jpg | 702.96 KB | .jpg | 2025-01-21T20:31:04.000Z |
@@ -52,7 +51,6 @@
 | content/NF590d75be-8734-4a38-ab82-72ab44d6c883IER.jpg | 543.61 KB | .jpg | 2022-12-14T11:47:43.000Z |
 | content/NK590d75be-8734-4a38-ab82-72ab44d6c883ICS.jpg | 523.99 KB | .jpg | 2022-12-14T11:48:48.000Z |
 | content/NL590d75be-8734-4a38-ab82-72ab44d6c883AF.jpg | 532.21 KB | .jpg | 2022-12-14T11:51:20.000Z |
-| content/Nissan | 4 KB |  | 2023-09-13T13:57:40.000Z |
 | content/Nissan/Nissan Frontier.jpg | 452.77 KB | .jpg | 2023-09-13T13:57:40.000Z |
 | content/Nissan/Nissan LEAF.png | 2.08 MB | .png | 2023-09-08T15:01:13.000Z |
 | content/Nissan/Novo Nissan Kicks.jpg | 3.39 MB | .jpg | 2023-09-08T15:01:13.000Z |
@@ -68,7 +66,6 @@
 | content/Ofertas_Fecha_Mês_15x_PR-MS-MT-GO-TO.pdf | 1.3 MB | .pdf | 2025-01-28T19:27:51.000Z |
 | content/Ofertas_Fecha_Mês_15x_PR-MT-GO.pdf | 1.3 MB | .pdf | 2025-01-28T19:10:45.000Z |
 | content/Ofertas_Fecha_Mês_15x_RO.pdf | 1.31 MB | .pdf | 2025-01-28T19:10:45.000Z |
-| content/RCS | 4 KB |  | 2026-06-15T01:27:26.000Z |
 | content/RCS/capa_dawntech_rcs.png | 316.18 KB | .png | 2026-06-15T01:27:26.000Z |
 | content/RCS/logo_dawntech_rcs.png | 10.74 KB | .png | 2026-06-15T01:27:26.000Z |
 | content/Redutores_IBR_3.1.1.1.1.1.pdf | 1.36 MB | .pdf | 2022-08-05T17:25:09.000Z |
@@ -86,13 +83,11 @@
 | content/WK13_W_Linen_3x2.jpg | 127.68 KB | .jpg | 2025-03-23T16:09:12.000Z |
 | content/WhatsApp Image 2023-04-03 at 11.51.01.jpeg | 135.64 KB | .jpeg | 2023-05-16T22:22:39.000Z |
 | content/a7cc5b8a-a6cc-4f93-bcbd-154cd77ec307.mp4 | 1.38 MB | .mp4 | 2022-09-02T03:05:09.000Z |
-| content/amstel | 4 KB |  | 2024-03-13T17:10:52.000Z |
 | content/amstel/Espirito Livre 1.png | 1.92 MB | .png | 2024-03-13T17:10:52.000Z |
 | content/amstel/Espirito Livre 2.png | 1.93 MB | .png | 2024-03-13T17:10:52.000Z |
 | content/amstel/Espirito Livre 3.png | 2.11 MB | .png | 2024-03-13T17:10:52.000Z |
 | content/amstel/Espirito Livre 4.png | 257.28 KB | .png | 2024-03-13T17:10:52.000Z |
 | content/amstel/teste | 6 B |  | 2024-03-13T17:09:51.000Z |
-| content/animativa | 4 KB |  | 2024-09-10T01:45:21.000Z |
 | content/animativa/A SD agora é ANIMATIVA!.mp4 | 5.09 MB | .mp4 | 2024-08-28T21:14:37.000Z |
 | content/animativa/Deadpool-Naruto-Marvel-Now.png | 1.36 MB | .png | 2024-09-10T00:50:15.000Z |
 | content/animativa/Friends.png | 1.57 MB | .png | 2024-09-10T01:11:37.000Z |
@@ -100,14 +95,12 @@
 | content/animativa/moranguinho-rebecca-bonbon.png | 701.87 KB | .png | 2024-09-10T01:53:18.000Z |
 | content/animativa/teste.txt | 1 B | .txt | 2024-08-28T21:14:27.000Z |
 | content/astoria-info-tecnicas.png | 197.52 KB | .png | 2024-07-04T12:00:09.000Z |
-| content/barcelos | 4 KB |  | 2025-12-16T18:57:05.000Z |
 | content/barcelos/Barcelos-persona.webp | 9.29 MB | .webp | 2024-05-03T15:36:08.000Z |
 | content/barcelos/barcelos-persona_512x512.webp | 18.99 KB | .webp | 2024-05-03T16:10:00.000Z |
 | content/barcelos/file | 9 B |  | 2024-02-08T11:34:07.000Z |
 | content/barcelos/gazin-cover-rcs.png | 335.78 KB | .png | 2025-12-16T18:57:05.000Z |
 | content/barcelos/gazin-logo-rcs.png | 11.21 KB | .png | 2025-12-16T18:57:05.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
-| content/bees | 4 KB |  | 2025-12-29T18:44:19.000Z |
 | content/bees/01-2711.png | 864.68 KB | .png | 2025-11-27T18:03:37.000Z |
 | content/bees/01_intro.png | 264.41 KB | .png | 2025-11-19T21:58:53.000Z |
 | content/bees/02-2711.png | 860.2 KB | .png | 2025-11-27T18:03:37.000Z |
@@ -138,7 +131,6 @@
 | content/bees/bees-convite.png | 305.59 KB | .png | 2025-11-14T13:40:23.000Z |
 | content/bees/pontos_dobro.mp4 | 1.17 MB | .mp4 | 2025-11-23T18:44:55.000Z |
 | content/bees/text.txt | 1 B | .txt | 2025-11-12T15:40:18.000Z |
-| content/beto-carrero | 4 KB |  | 2025-02-11T18:37:04.000Z |
 | content/beto-carrero/alerta_para_preencher_nome_2024.jpg | 72.56 KB | .jpg | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/boas_vindas_2024.mp4 | 15.47 MB | .mp4 | 2024-11-11T15:28:34.000Z |
 | content/beto-carrero/confirmacao_passaportes_preenchidos_2024.jpg | 60.55 KB | .jpg | 2024-11-11T15:28:34.000Z |
@@ -153,7 +145,6 @@
 | content/beto-carrero/pesquisa_satisfacao.jpg | 22.84 KB | .jpg | 2024-12-18T20:18:28.000Z |
 | content/beto-carrero/test.txt | 9 B | .txt | 2024-11-11T15:07:33.000Z |
 | content/blipcommerce.jpeg | 21.78 KB | .jpeg | 2025-06-17T16:05:07.000Z |
-| content/byx-caixa-aqui | 4 KB |  | 2025-01-13T21:01:42.000Z |
 | content/byx-caixa-aqui/00. Transbordo em qualquer momento do fluxo.mp3 | 127.75 KB | .mp3 | 2025-01-07T12:58:50.000Z |
 | content/byx-caixa-aqui/01. Boas vindas ao atendimento.mp3 | 205.31 KB | .mp3 | 2025-01-13T21:01:42.000Z |
 | content/byx-caixa-aqui/01. Boas vindas ao atendimento_old.mp3 | 186.53 KB | .mp3 | 2025-01-13T21:01:42.000Z |
@@ -191,7 +182,6 @@
 | content/catalyst_4.png | 278.66 KB | .png | 2024-03-17T21:24:16.000Z |
 | content/cb883a50-54a5-4f98-9ccd-f152ef75f7f3.jpg | 94.79 KB | .jpg | 2024-05-08T17:10:51.000Z |
 | content/cc395261-708a-43fd-823c-e6f9999224cas.mp4 | 7.38 MB | .mp4 | 2022-09-03T19:03:30.000Z |
-| content/chatbot-comunicados-internos | 4 KB |  | 2025-10-14T18:50:08.000Z |
 | content/chatbot-comunicados-internos/foco-general.png | 59.7 KB | .png | 2025-10-14T23:53:00.000Z |
 | content/chatbot-comunicados-internos/foco-manutencao.png | 59.6 KB | .png | 2025-10-14T23:53:00.000Z |
 | content/chatbot-comunicados-internos/foco-test.png | 59.8 KB | .png | 2025-10-14T23:53:00.000Z |
@@ -203,11 +193,9 @@
 | content/chatbot-comunicados-internos/test-editar.png | 26.34 KB | .png | 2025-10-14T18:37:47.000Z |
 | content/chatbot-comunicados-internos/test-salvar.png | 46.59 KB | .png | 2025-10-14T18:37:47.000Z |
 | content/chatbot-comunicados-internos/todos-recursos.png | 59.58 KB | .png | 2025-10-14T23:53:00.000Z |
-| content/coplacampos | 4 KB |  | 2024-03-05T20:34:11.000Z |
 | content/coplacampos/1.png | 923.3 KB | .png | 2024-02-22T23:27:06.000Z |
 | content/coplacampos/10.png | 896.19 KB | .png | 2024-02-22T23:27:06.000Z |
 | content/coplacampos/2.png | 978.77 KB | .png | 2024-02-22T23:27:06.000Z |
-| content/coplacampos/2026 | 4 KB |  | 2026-02-22T22:29:51.000Z |
 | content/coplacampos/2026/*.txt | 1 B | .txt | 2026-01-08T19:25:14.000Z |
 | content/coplacampos/2026/coplacampo-2026-1.jpg | 1.18 MB | .jpg | 2026-02-22T22:29:51.000Z |
 | content/coplacampos/2026/coplacampo-2026-2.jpg | 1.36 MB | .jpg | 2026-02-22T22:29:51.000Z |
@@ -231,9 +219,6 @@
 | content/coplacampos/MAPA.pdf | 989.64 KB | .pdf | 2024-02-23T12:23:54.000Z |
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
 | content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
-| content/coplacana | 4 KB |  | 2025-12-17T12:53:53.000Z |
-| content/coplacana/coplacampo | 4 KB |  | 2026-09-21T08:34:14.376Z |
-| content/coplacana/coplacampo/2026 | 4 KB |  | 2026-01-11T20:41:22.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
 | content/coplacana/coplacampo/2026/Inovacao.jpg | 1.03 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -257,11 +242,9 @@
 | content/docs_view_shopify.png | 127.37 KB | .png | 2025-02-02T15:55:13.000Z |
 | content/donna-icon.png | 867.66 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/dt.png | 269.09 KB | .png | 2024-06-27T11:50:31.000Z |
-| content/eces24 | 4 KB |  | 2024-09-16T19:23:06.000Z |
 | content/eces24/Logo.jpg | 10.69 KB | .jpg | 2024-09-13T23:10:32.000Z |
 | content/eces24/mapa-evento.png | 784.54 KB | .png | 2024-09-16T19:23:06.000Z |
 | content/eces24/text.txt | 5 B | .txt | 2024-09-13T23:10:03.000Z |
-| content/email | 4 KB |  | 2022-08-10T20:24:36.000Z |
 | content/email/ativos.png | 140.04 KB | .png | 2022-08-10T20:24:36.000Z |
 | content/email/engajados.png | 140.59 KB | .png | 2022-08-10T20:24:36.000Z |
 | content/email/enviadas.png | 128.7 KB | .png | 2022-08-10T20:02:16.000Z |
@@ -275,7 +258,6 @@
 | content/email/mensagens-ativas.png | 127.18 KB | .png | 2022-08-10T20:02:16.000Z |
 | content/email/recebidas.png | 128.73 KB | .png | 2022-08-10T20:24:36.000Z |
 | content/email/twitter.png | 4.97 KB | .png | 2022-08-10T20:24:36.000Z |
-| content/embracon | 4 KB |  | 2026-08-25T18:47:07.000Z |
 | content/embracon/automoveis.png | 742.19 KB | .png | 2026-08-25T18:47:07.000Z |
 | content/embracon/imoveis.png | 657.01 KB | .png | 2026-08-25T18:47:07.000Z |
 | content/embracon/moto.png | 1.15 MB | .png | 2026-08-25T18:47:07.000Z |
@@ -283,7 +265,6 @@
 | content/embracon/servico.png | 859.04 KB | .png | 2026-08-25T18:47:07.000Z |
 | content/embracon/teste.txt | 1 B | .txt | 2026-08-25T18:14:11.000Z |
 | content/engovafter.pdf | 84.65 KB | .pdf | 2024-05-20T11:54:42.000Z |
-| content/eolias | 4 KB |  | 2024-08-31T02:49:46.000Z |
 | content/eolias/combo_bem-estar.png | 625.5 KB | .png | 2024-05-17T13:42:15.000Z |
 | content/eolias/combo_bem-estar.webp | 64.79 KB | .webp | 2024-05-17T13:39:43.000Z |
 | content/eolias/combo_estresse-sono.png | 423.11 KB | .png | 2024-05-17T13:42:15.000Z |
@@ -306,7 +287,7 @@
 | content/fundo_transparente_letras_brancas_apenas_nome_e_slogan.png | 95.47 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas.png | 102.95 KB | .png | 2024-02-27T13:58:16.000Z |
 | content/fundo_transparente_letras_cinzas_apenas_nome_e_slogan.png | 121.08 KB | .png | 2024-02-27T13:58:16.000Z |
-| content/gazin | 4 KB |  | 2025-12-16T18:59:24.000Z |
+| content/gazin-divida-quitada.jpeg | 206.97 KB | .jpeg | 2025-06-11T14:53:09.000Z |
 | content/gazin/Ofertas_Dia_Unico_P7_12x_AC_25-07-25.pdf | 6.02 MB | .pdf | 2025-07-25T13:00:52.000Z |
 | content/gazin/Ofertas_Dia_Unico_P7_12x_AM-PA_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T13:00:52.000Z |
 | content/gazin/Ofertas_Dia_Unico_P7_12x_MT_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T13:00:52.000Z |
@@ -322,15 +303,12 @@
 | content/gazin/gazinbank-carrossel-capital-de-giro.png | 332.66 KB | .png | 2025-04-02T17:44:54.000Z |
 | content/gazin/gazinbank-carrossel-conta-pf-v2.jpeg | 119.21 KB | .jpeg | 2025-04-08T18:48:51.000Z |
 | content/gazin/gazinbank-carrossel-conta-pf.png | 217.76 KB | .png | 2025-04-03T18:50:07.000Z |
-| content/gazin/rcs | 4 KB |  | 2026-01-15T23:59:13.000Z |
 | content/gazin/rcs/*.txt | 2 B | .txt | 2026-01-15T23:58:53.000Z |
 | content/gazin/rcs/atacado.png | 149.77 KB | .png | 2026-01-15T23:59:13.000Z |
 | content/gazin/rcs/consorcio.png | 168.59 KB | .png | 2026-01-15T23:59:13.000Z |
 | content/gazin/rcs/menu_principal.png | 118.8 KB | .png | 2026-01-15T23:59:13.000Z |
 | content/gazin/rcs/seguros.png | 111.68 KB | .png | 2026-01-15T23:59:13.000Z |
 | content/gazin/teste.txt | 6 B | .txt | 2025-04-02T17:43:49.000Z |
-| content/gazin-divida-quitada.jpeg | 206.97 KB | .jpeg | 2025-06-11T14:53:09.000Z |
-| content/h-and-m | 4 KB |  | 2024-10-31T13:13:51.000Z |
 | content/h-and-m/6000-1x1-2-holiday-2024-kids.jpg | 384.14 KB | .jpg | 2024-10-31T13:13:51.000Z |
 | content/h-and-m/FNP-6000-1x1-Push-thumbnail-holiday-2024-men.jpg | 119.81 KB | .jpg | 2024-10-31T13:13:51.000Z |
 | content/h-and-m/FNP-6000-FN-1-image-3-holiday-2024-women.jpg | 376.13 KB | .jpg | 2024-10-31T13:13:51.000Z |
@@ -351,7 +329,6 @@
 | content/image_shopify_3_pedido_pago.png | 16.11 KB | .png | 2023-10-07T02:42:42.000Z |
 | content/image_shopify_4.png | 289.46 KB | .png | 2023-05-17T03:16:20.000Z |
 | content/img_erro.png | 9.64 KB | .png | 2023-03-23T03:19:04.000Z |
-| content/imgs | 4 KB |  | 2023-04-06T02:50:55.000Z |
 | content/imgs/config_1.png | 109.67 KB | .png | 2023-04-06T02:50:55.000Z |
 | content/imgs/config_2.png | 78.65 KB | .png | 2023-04-06T02:50:55.000Z |
 | content/imgs/config_3.png | 115.28 KB | .png | 2023-04-06T02:50:55.000Z |
@@ -362,14 +339,12 @@
 | content/imgs/img_2.png | 139.86 KB | .png | 2023-04-06T02:50:55.000Z |
 | content/imgs/img_3.png | 142.42 KB | .png | 2023-04-06T02:50:55.000Z |
 | content/kit_quadros.png | 295.16 KB | .png | 2023-10-11T00:46:18.000Z |
-| content/lantana | 4 KB |  | 2023-11-06T19:50:31.000Z |
 | content/lantana/kami.webp | 27.89 KB | .webp | 2023-11-06T19:50:10.000Z |
 | content/lap1.jpg | 193.9 KB | .jpg | 2023-08-13T03:07:34.000Z |
 | content/lap2.jpg | 200.22 KB | .jpg | 2023-08-13T02:43:52.000Z |
 | content/lap3.jpg | 152 KB | .jpg | 2023-08-13T02:43:52.000Z |
 | content/lap4.jpg | 134.6 KB | .jpg | 2023-08-13T02:43:52.000Z |
 | content/lap5.jpg | 150.12 KB | .jpg | 2023-08-13T02:43:52.000Z |
-| content/lastlink | 4 KB |  | 2024-09-02T19:29:51.000Z |
 | content/lastlink/1.jpeg | 35.91 KB | .jpeg | 2024-09-02T19:23:46.000Z |
 | content/lastlink/2.jpeg | 45.92 KB | .jpeg | 2024-09-02T19:24:54.000Z |
 | content/lastlink/3.jpeg | 41.21 KB | .jpeg | 2024-09-02T19:25:54.000Z |
@@ -378,7 +353,6 @@
 | content/lastlink/6.jpeg | 43.83 KB | .jpeg | 2024-09-02T19:29:05.000Z |
 | content/lastlink/7.jpeg | 43.07 KB | .jpeg | 2024-09-02T19:29:51.000Z |
 | content/lastlink/text.txt | 1 B | .txt | 2024-08-22T20:03:18.000Z |
-| content/leroy-merlin | 4 KB |  | 2025-09-30T23:28:34.000Z |
 | content/leroy-merlin/Aniversario-25-anos.mp4 | 4.14 MB | .mp4 | 2025-09-29T03:42:53.000Z |
 | content/leroy-merlin/CARTA-2026-BALANÇO.png | 493.23 KB | .png | 2025-09-30T23:28:34.000Z |
 | content/leroy-merlin/CARTA-2026-OFERTA.png | 391.47 KB | .png | 2025-09-30T23:28:34.000Z |
@@ -389,7 +363,6 @@
 | content/logo-sticker.webp | 57.81 KB | .webp | 2023-04-05T17:35:36.000Z |
 | content/logo.jpeg | 111.85 KB | .jpeg | 2024-02-02T02:55:55.000Z |
 | content/logomadesamx.png | 14.38 KB | .png | 2024-11-07T17:06:56.000Z |
-| content/madesa | 4 KB |  | 2024-03-25T19:45:41.000Z |
 | content/madesa/Acordes.png | 24.75 KB | .png | 2024-03-25T18:07:44.000Z |
 | content/madesa/AcordesCozinha.png | 455.83 KB | .png | 2024-03-25T19:45:41.000Z |
 | content/madesa/Agata.png | 26.41 KB | .png | 2024-03-25T18:07:44.000Z |
@@ -424,16 +397,13 @@
 | content/madesa/StellaCozinha.png | 430.48 KB | .png | 2024-03-25T19:45:41.000Z |
 | content/madesa/teste | 6 B |  | 2024-03-14T14:18:01.000Z |
 | content/margempremio.jpg | 112.4 KB | .jpg | 2025-08-25T20:06:19.000Z |
-| content/marks-electrical | 4 KB |  | 2024-08-20T15:04:19.000Z |
 | content/marks-electrical/product-code-helper.png | 45.26 KB | .png | 2024-08-20T15:04:19.000Z |
 | content/marks-electrical/teste.txt | 1 B | .txt | 2024-08-20T13:21:50.000Z |
-| content/master | 4 KB |  | 2024-09-12T13:52:31.000Z |
 | content/master/tela-cpfl.png | 139.88 KB | .png | 2024-09-12T13:52:31.000Z |
 | content/master/tela-rge.png | 114.7 KB | .png | 2024-09-12T13:26:19.000Z |
 | content/metro-form.pdf | 6.95 MB | .pdf | 2024-09-30T00:33:01.000Z |
-| content/meurodape | 4 KB |  | 2023-10-11T02:03:48.000Z |
+| content/meurodape.png | 23.29 KB | .png | 2024-05-23T12:21:06.000Z |
 | content/meurodape/Paineis Ripados.png | 642.03 KB | .png | 2023-10-11T02:03:18.000Z |
-| content/meurodape/audios | 4 KB |  | 2023-10-11T02:03:18.000Z |
 | content/meurodape/audios/Diferença entre os ripados.ogg | 84.36 KB | .ogg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/audios/M2 e Metros lineares.ogg | 103.66 KB | .ogg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/audios/M2-e-Metros-lineares.mp3 | 639.28 KB | .mp3 | 2023-10-11T02:03:18.000Z |
@@ -445,71 +415,57 @@
 | content/meurodape/audios/audioquarto.mp3 | 220.68 KB | .mp3 | 2023-10-11T02:03:18.000Z |
 | content/meurodape/audios/audiosala.mp3 | 173.86 KB | .mp3 | 2023-10-11T02:03:18.000Z |
 | content/meurodape/catalogo_whats BOISERIE CORTADO.pdf | 2.94 MB | .pdf | 2023-10-11T02:03:18.000Z |
-| content/meurodape/imagens | 4 KB |  | 2023-10-11T02:03:18.000Z |
-| content/meurodape/imagens/casa_inteira | 4 KB |  | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/casa_inteira/Boiserie.jpg | 337.18 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/casa_inteira/Painel Ripado.jpg | 280.61 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/casa_inteira/Roda teto.jpg | 151.38 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/casa_inteira/Rodapé.jpg | 148.7 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/casa_inteira/quadros.png | 5.4 MB | .png | 2023-10-11T02:03:18.000Z |
-| content/meurodape/imagens/escritorio | 4 KB |  | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/escritorio/Boiserie.jpg | 337.18 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/escritorio/Painel Ripado.jpg | 280.61 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/escritorio/Rodapé.jpg | 148.7 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/escritorio/quadros.png | 5.4 MB | .png | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/kit_quadros.png | 295.16 KB | .png | 2023-10-11T02:03:18.000Z |
-| content/meurodape/imagens/quarto | 4 KB |  | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/quarto/Boiserie.jpg | 337.18 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/quarto/Cabeceiras.jpg | 345.03 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/quarto/Painel Ripado (Lambri).jpg | 210.46 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/quarto/Painel Ripado.jpg | 280.61 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/quarto/quadros.png | 5.4 MB | .png | 2023-10-11T02:03:18.000Z |
-| content/meurodape/imagens/sala | 4 KB |  | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/sala/Boiserie.jpg | 337.18 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/sala/Painel Ripado.jpg | 280.61 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/sala/Roda teto.jpg | 151.38 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/sala/Rodapé.jpg | 148.7 KB | .jpg | 2023-10-11T02:03:18.000Z |
 | content/meurodape/imagens/sala/quadros.png | 5.4 MB | .png | 2023-10-11T02:03:18.000Z |
-| content/meurodape/videos | 4 KB |  | 2023-10-11T02:03:18.000Z |
 | content/meurodape/videos/COMO CALCULAR LINHA PLAY - LEGENDADO (1).mp4 | 14.3 MB | .mp4 | 2023-10-11T02:03:18.000Z |
 | content/meurodape/videos/como_calcular_linha_urban_legendado.mp4 | 12.86 MB | .mp4 | 2023-10-11T02:03:18.000Z |
 | content/meurodape/videos/painel.mp4 | 9.14 MB | .mp4 | 2023-10-11T02:03:18.000Z |
 | content/meurodape/videos/rodameioeboiserierm6102-3cm_medidas.mp4 | 11.64 MB | .mp4 | 2023-10-11T02:03:18.000Z |
 | content/meurodape/videos/rodaperp1610cm_medidas.mp4 | 11.55 MB | .mp4 | 2023-10-11T02:03:18.000Z |
-| content/meurodape.png | 23.29 KB | .png | 2024-05-23T12:21:06.000Z |
 | content/meurodape_transparente.png | 33.47 KB | .png | 2024-05-23T12:26:51.000Z |
 | content/michelin-localizacao.jpeg | 245 KB | .jpeg | 2023-10-31T21:22:35.000Z |
 | content/michelin-medida-pneu.jpeg | 237.42 KB | .jpeg | 2023-10-31T21:22:35.000Z |
-| content/monaco | 4 KB |  | 2025-04-23T21:13:07.000Z |
 | content/monaco/*.txt | 1 B | .txt | 2025-04-23T21:12:11.000Z |
 | content/monaco/follow-up-pos-vendas.png | 428.68 KB | .png | 2025-04-23T21:13:07.000Z |
 | content/monaco/follow-up-recorrente.png | 328.42 KB | .png | 2025-04-23T21:13:07.000Z |
 | content/monaco/oferta-de-revisao.png | 376.45 KB | .png | 2025-04-23T21:13:07.000Z |
-| content/monteZaion | 4 KB |  | 2024-09-02T12:32:22.000Z |
 | content/monteZaion/MONTE ZAION 1 (1) (1) (1) (1) (1) (1).mp4 | 20.02 MB | .mp4 | 2024-09-02T12:32:22.000Z |
 | content/monteZaion/Teste.text | 1 B | .text | 2024-09-02T11:49:44.000Z |
-| content/mybar | 4 KB |  | 2024-05-24T18:39:38.000Z |
 | content/mybar/imagem_apresentacao_27-05.png | 140.2 KB | .png | 2024-05-24T15:03:51.000Z |
 | content/naguirre.png | 21.98 KB | .png | 2023-11-25T12:57:27.000Z |
-| content/neon | 4 KB |  | 2025-10-15T03:23:12.000Z |
 | content/neon/*.txt | 5 B | .txt | 2025-10-09T15:22:24.000Z |
 | content/neon/faq_ilp-offboarding.pdf | 76.11 KB | .pdf | 2025-10-11T05:28:21.000Z |
 | content/neon/inss_complementacao_salarial.pdf | 59.83 KB | .pdf | 2025-10-09T15:25:23.000Z |
 | content/neon/inss_retorno_ao_trabalho.pdf | 46.37 KB | .pdf | 2025-10-09T15:25:23.000Z |
 | content/neon/passo_a_passo_homologacao_medei.pdf | 414.68 KB | .pdf | 2025-10-15T03:23:12.000Z |
 | content/nestle-lote.png | 450.07 KB | .png | 2026-01-08T01:15:31.000Z |
-| content/nestle-promo | 4 KB |  | 2026-02-24T20:09:51.000Z |
 | content/nestle-promo/image 5.jpg | 145.5 KB | .jpg | 2026-02-24T19:25:45.000Z |
 | content/nestle-promo/mucilon_urso.png | 54.91 KB | .png | 2026-02-24T20:09:51.000Z |
 | content/nestle-promo/participating.jpeg | 122.86 KB | .jpeg | 2025-12-22T17:50:51.000Z |
 | content/nestle-promo/saudacao-promo.jpeg | 1.5 MB | .jpeg | 2025-12-22T17:49:42.000Z |
-| content/nestle-saq | 4 KB |  | 2026-03-31T22:09:24.000Z |
 | content/nestle-saq/produtos1.jpeg | 56.51 KB | .jpeg | 2026-01-14T16:10:35.000Z |
 | content/nestle-saq/produtos2.jpeg | 103.48 KB | .jpeg | 2026-01-14T16:10:35.000Z |
 | content/nestle-saq/sac_pascoa_1.png | 1.22 MB | .png | 2026-03-31T22:09:24.000Z |
 | content/nestle-saq/sac_pascoa_2.png | 1.27 MB | .png | 2026-03-31T22:09:24.000Z |
 | content/nestle-saq/sac_pascoa_catalogo.pdf | 319.27 KB | .pdf | 2026-03-31T12:02:36.000Z |
-| content/nestle_receitas | 4 KB |  | 2025-11-28T12:50:43.000Z |
 | content/nestle_receitas/CLASSICO.mp4 | 6.43 MB | .mp4 | 2025-11-28T12:46:49.000Z |
 | content/nestle_receitas/CRIATIVO.mp4 | 10.71 MB | .mp4 | 2025-11-28T12:50:09.000Z |
 | content/nestle_receitas/ECONOMICO.mp4 | 5.25 MB | .mp4 | 2025-11-28T12:50:09.000Z |
@@ -528,7 +484,6 @@
 | content/nestle_receitas/figurinha8.webp | 92.87 KB | .webp | 2025-11-28T12:41:44.000Z |
 | content/nestle_receitas/kv_hor.jpg | 716.42 KB | .jpg | 2025-11-28T12:41:44.000Z |
 | content/nextdaytutorial.jpeg | 48.55 KB | .jpeg | 2024-08-22T02:57:47.000Z |
-| content/overcome | 4 KB |  | 2024-10-07T14:16:32.000Z |
 | content/overcome/OVCM - apresentação multimarcas.pdf | 9.81 MB | .pdf | 2024-08-21T18:12:28.000Z |
 | content/overcome/apresentacao-multimarcas.pdf | 9.81 MB | .pdf | 2024-08-22T15:31:39.000Z |
 | content/overcome/banner-promo-winter.mp4 | 2 B | .mp4 | 2024-07-04T14:47:58.000Z |
@@ -541,7 +496,6 @@
 | content/overcome/preço atacado overcome (1).pdf | 269.61 KB | .pdf | 2024-08-18T20:58:58.000Z |
 | content/overcome/video-ativo | 1 B |  | 2024-06-27T13:11:28.000Z |
 | content/p0s1t1v3-c9c6da9c-a044.webp | 33.73 KB | .webp | 2023-12-21T21:28:16.000Z |
-| content/pixbet | 4 KB |  | 2024-10-29T00:04:21.000Z |
 | content/pixbet/Depósito BET.BET.mp4 | 19.8 MB | .mp4 | 2024-10-28T22:51:38.000Z |
 | content/pixbet/Depósito BETDASORTE.mp4 | 18.18 MB | .mp4 | 2024-10-28T22:55:42.000Z |
 | content/pixbet/Depósito BETVIP.mp4 | 19.64 MB | .mp4 | 2024-10-28T22:58:44.000Z |
@@ -566,10 +520,8 @@
 | content/pixbet/Validação de e-mail PIXBET.mp4 | 18.45 MB | .mp4 | 2024-10-28T22:38:45.000Z |
 | content/plugins_file-upload_video.mp4 | 5 MB | .mp4 | 2024-08-27T02:28:51.000Z |
 | content/promuscular3.jpg | 1.09 MB | .jpg | 2024-05-16T01:28:25.000Z |
-| content/rcs-dwnt | 4 KB |  | 2025-12-17T11:50:25.000Z |
 | content/rcs-dwnt/dawntech-cover-rcs.png | 320.02 KB | .png | 2025-12-17T11:50:25.000Z |
 | content/rcs-dwnt/dawntech-logo-rcs.png | 10.44 KB | .png | 2025-12-17T11:50:25.000Z |
-| content/sba | 4 KB |  | 2026-01-18T00:07:21.000Z |
 | content/sba/2020_Q11.png | 192.97 KB | .png | 2026-01-17T22:10:52.000Z |
 | content/sba/2020_Q13.png | 426.69 KB | .png | 2026-01-17T22:10:52.000Z |
 | content/sba/2020_Q14.png | 465.36 KB | .png | 2026-01-17T22:10:52.000Z |
@@ -599,13 +551,10 @@
 | content/sba/me1_prova_2023.pdf | 550.62 KB | .pdf | 2026-01-17T23:57:42.000Z |
 | content/sbd_runs.png | 256.8 KB | .png | 2026-01-31T21:28:40.000Z |
 | content/sbdposvendas.png | 35.03 KB | .png | 2026-01-30T19:31:23.000Z |
-| content/slshop | 4 KB |  | 2024-09-27T18:43:28.000Z |
 | content/slshop/avatar-feminino.png | 1.88 MB | .png | 2024-09-27T18:43:28.000Z |
 | content/slshop/avatar-masculino.png | 1.8 MB | .png | 2024-09-27T18:43:28.000Z |
-| content/sos | 4 KB |  | 2024-05-24T19:35:35.000Z |
 | content/sos/Termos-de-Uso-Doacoes-em-um-Blip-SOS-RS-21.05.24.pdf | 220.02 KB | .pdf | 2024-05-24T19:35:35.000Z |
 | content/sos/main.txt | 1 B | .txt | 2024-05-24T19:34:28.000Z |
-| content/squads | 4 KB |  | 2026-03-04T02:42:28.000Z |
 | content/squads/andromeda-label.png | 51.84 KB | .png | 2026-03-04T02:42:28.000Z |
 | content/squads/andromeda.png | 58.01 KB | .png | 2026-03-04T02:42:28.000Z |
 | content/squads/centaurus-label.png | 62.71 KB | .png | 2026-03-04T02:42:28.000Z |
@@ -615,17 +564,12 @@
 | content/squads/quasar-label.png | 52.18 KB | .png | 2026-03-04T02:42:28.000Z |
 | content/squads/quasar.png | 45.57 KB | .png | 2026-03-04T02:42:28.000Z |
 | content/testeativosaquamar.JPG | 1.06 MB | .JPG | 2024-02-26T15:02:48.000Z |
-| content/twenty-images-lm | 4 KB |  | 2026-09-21T08:34:15.932Z |
-| content/twenty-images-lm/images | 4 KB |  | 2026-09-21T08:34:15.945Z |
-| content/twenty-images-lm/images/icons | 4 KB |  | 2026-09-21T08:34:15.934Z |
-| content/twenty-images-lm/images/icons/android | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-144-144.png | 6.43 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-192-192.png | 9.6 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-48-48.png | 1.78 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-512-512.png | 47.7 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-72-72.png | 2.67 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/android/android-launchericon-96-96.png | 3.94 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/icons/ios | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/ios/100.png | 3.87 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/ios/1024.png | 149.32 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/ios/114.png | 4.87 KB | .png | 2026-02-07T22:54:49.000Z |
@@ -652,7 +596,6 @@
 | content/twenty-images-lm/images/icons/ios/76.png | 2.86 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/ios/80.png | 3.02 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/ios/87.png | 3.36 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/icons/windows11 | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/windows11/LargeTile.scale-100.png | 19.57 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/windows11/LargeTile.scale-125.png | 29.81 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/windows11/LargeTile.scale-150.png | 40.4 KB | .png | 2026-02-07T22:54:49.000Z |
@@ -733,7 +676,6 @@
 | content/twenty-images-lm/images/icons/windows11/Wide310x150Logo.scale-150.png | 12.49 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/windows11/Wide310x150Logo.scale-200.png | 20.05 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/icons/windows11/Wide310x150Logo.scale-400.png | 69.85 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/integrations | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/airtable-logo.png | 11.84 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/cal-logo.png | 2.56 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/chrome-icon.svg | 1.4 KB | .svg | 2026-02-07T22:54:49.000Z |
@@ -746,8 +688,6 @@
 | content/twenty-images-lm/images/integrations/tally-logo.png | 3.81 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/twenty-logo.svg | 5.39 KB | .svg | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/integrations/windmill-logo.png | 7.77 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/placeholders | 4 KB |  | 2026-09-21T08:34:15.949Z |
-| content/twenty-images-lm/images/placeholders/background | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/404_bg.png | 7.53 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/500_bg.png | 7.37 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/empty_functions_bg.png | 4.41 KB | .png | 2026-02-07T22:54:49.000Z |
@@ -762,7 +702,6 @@
 | content/twenty-images-lm/images/placeholders/background/no_note_bg.png | 5.96 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/no_record_bg.png | 5.36 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/background/no_task_bg.png | 5.56 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/placeholders/dark-background | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/dark-background/404_bg.png | 6.71 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/dark-background/500_bg.png | 6.51 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/dark-background/empty_functions_bg.png | 4.14 KB | .png | 2026-02-07T22:54:49.000Z |
@@ -775,7 +714,6 @@
 | content/twenty-images-lm/images/placeholders/dark-background/no_note_bg.png | 5.51 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/dark-background/no_record_bg.png | 5 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/dark-background/no_task_bg.png | 5.21 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/placeholders/dark-moving-image | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/dark-moving-image/404.png | 17.3 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/dark-moving-image/500.png | 16.34 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/dark-moving-image/empty_functions.png | 16.7 KB | .png | 2026-02-07T22:54:49.000Z |
@@ -788,7 +726,6 @@
 | content/twenty-images-lm/images/placeholders/dark-moving-image/no_note.png | 15.75 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/dark-moving-image/no_record.png | 12.04 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/dark-moving-image/no_task.png | 11.68 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/twenty-images-lm/images/placeholders/moving-image | 4 KB |  | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/moving-image/404.png | 17.28 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/moving-image/500.png | 16.29 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/moving-image/empty_functions.png | 17 KB | .png | 2026-02-07T22:54:49.000Z |
@@ -803,7 +740,6 @@
 | content/twenty-images-lm/images/placeholders/moving-image/no_note.png | 15.67 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/moving-image/no_record.png | 11.88 KB | .png | 2026-02-07T22:54:49.000Z |
 | content/twenty-images-lm/images/placeholders/moving-image/no_task.png | 11.63 KB | .png | 2026-02-07T22:54:49.000Z |
-| content/ultragaz | 4 KB |  | 2025-07-16T21:31:58.000Z |
 | content/ultragaz/p13.png | 129.69 KB | .png | 2025-07-16T21:31:58.000Z |
 | content/ultragaz/p20.png | 57.75 KB | .png | 2025-07-16T21:31:58.000Z |
 | content/ultragaz/p45.png | 49.08 KB | .png | 2025-07-16T21:31:58.000Z |
@@ -824,7 +760,6 @@
 | content/vtexcheckout_ptbr.png | 132.15 KB | .png | 2024-01-07T23:39:22.000Z |
 | content/wake_1.png | 125.31 KB | .png | 2024-03-19T12:59:47.000Z |
 | content/wake_2.png | 109.16 KB | .png | 2024-03-19T12:59:47.000Z |
-| content/wellhub | 4 KB |  | 2026-01-12T17:49:11.000Z |
 | content/wellhub/rcs-active-message.png | 3.76 MB | .png | 2026-01-12T17:48:34.000Z |
 | content/wellhub/wellhub-cover-rcs.png | 602.96 KB | .png | 2025-12-17T11:17:14.000Z |
 | content/wellhub/wellhub-logo-rcs.png | 23.39 KB | .png | 2025-12-17T11:17:14.000Z |
