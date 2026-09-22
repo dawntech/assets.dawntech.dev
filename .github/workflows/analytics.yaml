@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
             ref: main
             # git-restore-mtime-bare uses the ref log to find the correct timestamp
@@ -22,9 +22,25 @@ jobs:
 
       - name: Run File Analytics action
         id: analytics_run
-        uses: FranciscoKnebel/file-analytics@0.1.1
+        uses: FranciscoKnebel/file-analytics@0.2.0
         with:
-          files: "content/**/*,*.png,*.pdf,*.jpg,*.mp4}"
+          working-directory: .
+          files: |
+            content/**/*
+            *.png
+            *.pdf
+            *.jpg
+            *.mp4
+          include-hidden-files: 'false'
+          follow-symbolic-links: 'false'
+          min-size: '0'
+          sort-by: file
+          sort-order: asc
+          size-standard: jedec
+          size-precision: '2'
+          json-indent: '0'
+          if-no-files-found: error
+          log-files: 'false'
           output_json: file_info.json
       
       - name: Generate Markdown table
@@ -50,4 +66,3 @@ jobs:
           default_author: github_actions
           add: 'README.md'
           message: "Update file stats in README.md"
-
