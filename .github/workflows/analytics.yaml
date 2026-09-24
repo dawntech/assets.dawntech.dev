@@ -41,7 +41,7 @@ jobs:
           json-indent: '0'
           if-no-files-found: error
           log-files: 'false'
-          output_json: file_info.jsona
+          output_json: file_info.json
       
       - name: Generate Markdown table
         id: create_table
