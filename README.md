@@ -1,7 +1,7 @@
 
-  ## Dawntech Assets
+  **Dawntech Assets**
 
-  - 📁 Arquivos: 775
+  - 📁 Arquivos: 771
   - ⚖️ Tamanho: 1.06 GB
     
   | File | Size | Ext | Mtime |
@@ -47,7 +47,6 @@
 | content/Marchand/SUPER-INICIO.jpg | 962.52 KB | .jpg | 2024-12-18T12:53:55.000Z |
 | content/Marchand/init.tx | 14 B | .tx | 2024-12-18T12:47:05.000Z |
 | content/Metroform_Catálogo_Digital.pdf | 6.95 MB | .pdf | 2024-09-17T13:50:35.000Z |
-| content/Monte Záion | 1 B |  | 2024-09-02T11:46:00.000Z |
 | content/NF590d75be-8734-4a38-ab82-72ab44d6c883IER.jpg | 543.61 KB | .jpg | 2022-12-14T11:47:43.000Z |
 | content/NK590d75be-8734-4a38-ab82-72ab44d6c883ICS.jpg | 523.99 KB | .jpg | 2022-12-14T11:48:48.000Z |
 | content/NL590d75be-8734-4a38-ab82-72ab44d6c883AF.jpg | 532.21 KB | .jpg | 2022-12-14T11:51:20.000Z |
@@ -97,7 +96,6 @@
 | content/astoria-info-tecnicas.png | 197.52 KB | .png | 2024-07-04T12:00:09.000Z |
 | content/barcelos/Barcelos-persona.webp | 9.29 MB | .webp | 2024-05-03T15:36:08.000Z |
 | content/barcelos/barcelos-persona_512x512.webp | 18.99 KB | .webp | 2024-05-03T16:10:00.000Z |
-| content/barcelos/file | 9 B |  | 2024-02-08T11:34:07.000Z |
 | content/barcelos/gazin-cover-rcs.png | 335.78 KB | .png | 2025-12-16T18:57:05.000Z |
 | content/barcelos/gazin-logo-rcs.png | 11.21 KB | .png | 2025-12-16T18:57:05.000Z |
 | content/barcelos/logo_barcelos.jpeg | 121.01 KB | .jpeg | 2024-02-08T11:34:36.000Z |
@@ -218,7 +216,6 @@
 | content/coplacampos/Dúvidas frequentes - COPLACAMPO 2024 (1).pdf | 1.58 MB | .pdf | 2024-02-23T21:28:14.000Z |
 | content/coplacampos/MAPA.pdf | 989.64 KB | .pdf | 2024-02-23T12:23:54.000Z |
 | content/coplacampos/MapaEvento.jpg | 155.17 KB | .jpg | 2024-02-23T14:10:40.000Z |
-| content/coplacampos/teste | 3 B |  | 2024-02-22T23:24:23.000Z |
 | content/coplacana/coplacampo/2026/*.txt | 2 B | .txt | 2026-01-08T19:26:14.000Z |
 | content/coplacana/coplacampo/2026/COPLACAMPO_11zon.jpg | 2.62 MB | .jpg | 2026-01-08T19:27:06.000Z |
 | content/coplacana/coplacampo/2026/Inovacao.jpg | 1.03 MB | .jpg | 2026-01-08T19:27:06.000Z |
@@ -494,7 +491,6 @@
 | content/overcome/over-video.mp4 | 4.25 MB | .mp4 | 2024-09-06T19:37:48.000Z |
 | content/overcome/precos_atacado.pdf | 269.61 KB | .pdf | 2024-08-18T21:01:29.000Z |
 | content/overcome/preço atacado overcome (1).pdf | 269.61 KB | .pdf | 2024-08-18T20:58:58.000Z |
-| content/overcome/video-ativo | 1 B |  | 2024-06-27T13:11:28.000Z |
 | content/p0s1t1v3-c9c6da9c-a044.webp | 33.73 KB | .webp | 2023-12-21T21:28:16.000Z |
 | content/pixbet/Depósito BET.BET.mp4 | 19.8 MB | .mp4 | 2024-10-28T22:51:38.000Z |
 | content/pixbet/Depósito BETDASORTE.mp4 | 18.18 MB | .mp4 | 2024-10-28T22:55:42.000Z |
