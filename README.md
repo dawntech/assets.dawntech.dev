@@ -1,8 +1,8 @@
 
   **Dawntech Assets**
 
-  - 📁 Arquivos: 771
-  - ⚖️ Tamanho: 1.06 GB
+  - 📁 Arquivos: 772
+  - ⚖️ Tamanho: 1.07 GB
     
   | File | Size | Ext | Mtime |
 | --- | --- | --- | --- |
@@ -291,6 +291,7 @@
 | content/gazin/Ofertas_Dia_Unico_P7_12x_PR-MS-GO_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T13:00:52.000Z |
 | content/gazin/Ofertas_Dia_Unico_P7_12x_RO_25-07-25.pdf | 5.95 MB | .pdf | 2025-07-25T12:56:02.000Z |
 | content/gazin/Termo de Autorização Gazinbank.pdf | 203.09 KB | .pdf | 2025-05-15T17:55:58.000Z |
+| content/gazin/apresentacao_consorcio.mp4 | 15.72 MB | .mp4 | 2026-11-10T12:59:58.000Z |
 | content/gazin/gazin-cover-rcs.png | 335.78 KB | .png | 2025-12-16T18:59:24.000Z |
 | content/gazin/gazin-logo-rcs.png | 11.21 KB | .png | 2025-12-16T18:59:24.000Z |
 | content/gazin/gazin.mp4 | 9.6 MB | .mp4 | 2025-12-02T13:22:38.000Z |
